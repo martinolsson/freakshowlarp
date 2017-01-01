@@ -1,0 +1,36 @@
+# Site settings
+title: Freak Show
+subtitle: Join The Last Show
+email: freakshowlarp@gmail.com
+description: Freak Show is a LARP about the final days of the last freak show. It is a story of a family of outcasts and freaks who have no other place to go. They are trying to survive in a changing world even though their time has already passed. It is a romantic horror story in the gothic style. The game will end with the final song of the last performance of the freak circus and with the devil coming to take them all to perform for him forever.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.freakshowlarp.com" # the base hostname & protocol for your site
+author:
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone: 
+
+# Homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 20
+
+# Social settings
+500px_url:
+facebook_url: https://www.facebook.com/groups/freakshowlarp/
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# Build settings
+markdown: kramdown
+
+sass:
+  sass_dir: _sass
