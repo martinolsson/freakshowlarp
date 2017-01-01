@@ -24,3 +24,27 @@
 			border-bottom: solid 1px _palette(border);
 		}
 	}
+
+	#full-logo {
+		background-attachment: fixed;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-image: url("/assets/images/curtains-large.png");
+		> img {
+			margin: 0  auto;
+			display: block;
+			max-width: 10%;			
+			left: 0;
+			@include vendor('transition', 'all 1s ease');
+		}
+		&:hover {
+			> img {
+				max-width: 55%;
+				opacity: 1;
+
+
+			}
+		}
+	}
+	

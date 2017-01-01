@@ -4,7 +4,7 @@ subtitle: Join The Last Show
 email: freakshowlarp@gmail.com
 description: Freak Show is a LARP about the final days of the last freak show. It is a story of a family of outcasts and freaks who have no other place to go. They are trying to survive in a changing world even though their time has already passed. It is a romantic horror story in the gothic style. The game will end with the final song of the last performance of the freak circus and with the devil coming to take them all to perform for him forever.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://martinolsson.github.io/freakshowlarp" # the base hostname & protocol for your site
+url: "https://martinolsson.github.io/" # the base hostname & protocol for your site
 author:
 street_address: 
 city: 
