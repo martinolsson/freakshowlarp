@@ -2,9 +2,9 @@
 title: Home
 layout: home
 landing-title: Welcome to the Freak Show
-description:
-image:
-author:
+description: 
+image: 
+author: 
 ---
 
 <div class="row">
