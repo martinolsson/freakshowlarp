@@ -10,8 +10,8 @@
 
 <body>
 
-{% include header.html %}     
-    
+{% include header.html %}
+
 <!-- Main -->
 <div id="main" >
 
@@ -23,19 +23,17 @@
 				{% if page.landing-title != blank %}
 					{{ page.landing-title}}
 				{% else %}
-					{{ page.title}}
+					{{ page.title }}
 				{% endif %}
 			</h1>
         </header>
         <div class="content">
-        	<div class="row">
-        		{% if page.image %}	
-					<img class="image fit" src="{{ site.baseurl }}/{{ page.image }}" alt="">
-				{% endif %}	
-    		
-    			<p>{{ content }}</p>
-        		
-    		</div>
+    		{% if page.image %}
+				<img class="image left" src="{{ site.baseurl }}/{{ page.image }}" alt="">
+			{% endif %}
+
+			<p>{{ content }}</p>
+
         </div>
     </div>
 </section>
