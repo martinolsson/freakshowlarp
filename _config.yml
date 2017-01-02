@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  characters:
+    title: characters
+    output: true
 subtitle: Join The Last Show
 email: freakshowlarp@gmail.com
 description: Freak Show is a LARP about the final days of the last freak show. It
