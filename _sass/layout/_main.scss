@@ -30,13 +30,13 @@
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
-		background-image: url("/assets/images/curtains-large.png");
+		background-image: url("../../assets/images/curtains-large.png");
 		> img {
 			margin: 0  auto;
 			display: block;
-			max-width: 10%;			
+			max-width: 33%;			
 			left: 0;
-			@include vendor('transition', 'all 1s ease');
+			@include vendor('transition', 'all 3s ease');
 		}
 		&:hover {
 			> img {

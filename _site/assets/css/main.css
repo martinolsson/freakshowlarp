@@ -1313,6 +1313,11 @@ em, i {
 p {
   margin: 0 0 2em 0; }
 
+p.lead {
+  font-size: 1.3em;
+  font-weight: normal;
+  letter-spacing: 0.025em; }
+
 h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
   font-weight: bold;
@@ -2523,7 +2528,7 @@ button,
       #banner > .inner .content > :first-child {
         margin-left: 0; }
       #banner > .inner .content p {
-        font-size: 1.1em;
+        font-size: 1.3em;
         font-weight: normal;
         letter-spacing: 0.025em; }
   #banner.major {
@@ -2611,16 +2616,16 @@ button,
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("/assets/images/curtains-large.png"); }
+  background-image: url("../../assets/images/curtains-large.png"); }
   #full-logo > img {
     margin: 0  auto;
     display: block;
-    max-width: 10%;
+    max-width: 33%;
     left: 0;
-    -moz-transition: all 1s ease;
-    -webkit-transition: all 1s ease;
-    -ms-transition: all 1s ease;
-    transition: all 1s ease; }
+    -moz-transition: all 3s ease;
+    -webkit-transition: all 3s ease;
+    -ms-transition: all 3s ease;
+    transition: all 3s ease; }
   #full-logo:hover > img {
     max-width: 55%;
     opacity: 1; }
