@@ -19,8 +19,8 @@ description: Freak Show is a LARP about the final days of the last freak show. I
   It is a romantic horror story in the gothic style. The game will end with the final
   song of the last performance of the freak circus and with the devil coming to take
   them all to perform for him forever.
-baseurl: "/freakshowlarp/"
-url: https://martinolsson.github.io/
+baseurl: 
+url: http://freakshowlarp.siteleaf.net/
 author: 
 street_address: 
 city: 
