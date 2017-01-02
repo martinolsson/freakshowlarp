@@ -1,6 +1,6 @@
 ---
-layout: page
 title: World &amp; Story
+layout: page
 landing-title: The World of The Freak Show
 show-in-nav: true
 order: 2

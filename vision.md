@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Vision
+layout: page
 show-in-nav: true
 image: assets/images/Location2.jpg
 order: 1

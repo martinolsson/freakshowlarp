@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Characters & Groups
+layout: page
 description: Who are The Sisters? Read all about Mietti.
 landing-title: Who is who in The Freak Show
 show-in-nav: true

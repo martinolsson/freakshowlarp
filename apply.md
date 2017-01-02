@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Apply
+layout: page
 description: How to become a Freak
 landing-title: So you want to Join the Freak Show?
 image: assets/images/Location.jpg

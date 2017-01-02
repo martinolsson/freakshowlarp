@@ -1,11 +1,12 @@
 ---
-layout: home
 title: Home
+layout: home
 landing-title: Welcome to the Freak Show
-description: null
-image: null
-author: null
+description: 
+image: 
+author: 
 ---
+
 <div class="row">
 <div class="7u 12u(small)">
 <table>

@@ -1,36 +1,42 @@
-# Site settings
+---
 title: Freak Show
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 subtitle: Join The Last Show
 email: freakshowlarp@gmail.com
-description: Freak Show is a LARP about the final days of the last freak show. It is a story of a family of outcasts and freaks who have no other place to go. They are trying to survive in a changing world even though their time has already passed. It is a romantic horror story in the gothic style. The game will end with the final song of the last performance of the freak circus and with the devil coming to take them all to perform for him forever.
-baseurl: "/freakshowlarp/" # the subpath of your site, e.g. /blog
-url: "https://martinolsson.github.io/" # the base hostname & protocol for your site
-author:
+description: Freak Show is a LARP about the final days of the last freak show. It
+  is a story of a family of outcasts and freaks who have no other place to go. They
+  are trying to survive in a changing world even though their time has already passed.
+  It is a romantic horror story in the gothic style. The game will end with the final
+  song of the last performance of the freak circus and with the devil coming to take
+  them all to perform for him forever.
+baseurl: "/freakshowlarp/"
+url: https://martinolsson.github.io/
+author: 
 street_address: 
 city: 
 state: 
 zip_code: 
 country: 
 phone: 
-
-# Homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: pages
 tiles-count: 20
-
-# Social settings
-500px_url:
+500px_url: 
 facebook_url: https://www.facebook.com/groups/freakshowlarp/
-github_url:
+github_url: 
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
 linkedin_url: 
-pinterest_url:
-slack_url:
+pinterest_url: 
+slack_url: 
 twitter_url: 
-
-# Build settings
 markdown: kramdown
-
 sass:
   sass_dir: _sass
