@@ -1,6 +1,6 @@
 ---
 title: Vision
-description: Why we want to create Freak Show with you  
+description: Why we want to create Freak Show with you
 layout: page
 show-in-nav: true
 image: assets/images/curtains.jpeg
