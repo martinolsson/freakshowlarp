@@ -2,36 +2,36 @@
 title: Characters & Groups
 layout: page
 description: Who are The Sisters? Read all about Mietti.
-landing-title: Who is who in The Freak Show
+landing-title: Who is Who in The Freak Show
 show-in-nav: true
 order: 3
 ---
 
-Every one of the characters, except the outsiders, are in the Freak Show because they have no other option. Even the ones who are not visibly different have something that sets them aside from normal society. Some of them may have made themselves different on the outside too though they weren’t like that to start with. The freaks are the misfits, unable to live by the norm. Some of them might be there because their loved ones can’t fit the norm.
+You are in the Freak Show because you have no other option. Even if you're  not visibly different, there is something that sets you aside from normal society. Maybe you made yourself different on the outside too even though you weren’t like that to start with. .. .... ..... .......... ..........
 {:.lead}
-
-All of the characters have reacted differently to being an outcast. Some still wish for a normal life and their emotions are conflicted. Some would not live any other way and have found a family and a home. Some like causing disgust and interest in normals, some hate it.
-
-There are three distinct groups of characters:
-_The Freaks_, who have some clearly visible factor that makes them unfit to normal society. They are the star performers. _The Circus Folk_, who travel and work with the circus, but are not visibly different. All of them are not performers, but all are somehow not normal.
-_The Outsiders_ are people currently traveling with the circus, but who can go back to society if they choose so.
 
 <div class="row">
     <div class="4u 12u$(small)">
-        <h4>Freaks</h4>
-        <ul>
-            <li>
-                <img class="image right" src="assets/images/pic06.jpg" alt=""/>
-                <b>Freak 1</b>
-                <p>Bla bla bla bla bla bla bla bla. <a>&hellip;</a></p>
-
-                <div class="more">
-                    <p>Bla bla bla bla bla bla bla bla.</p>
-                    <p>Bla bla bla bla bla bla bla bla.</p>
-                    <p>Bla bla bla bla bla bla bla bla.</p>
-                    <p>Bla bla bla bla bla bla bla bla.</p>
-                </div>
-            </li>
-        </ul>
+        <h2>The Freaks</h2>
+        <p>
+            _The Freaks_, who have some clearly visible factor that makes them unfit to normal society. They are the star performers.
+        </p>
     </div>
+    <div class="4u 12u$(small)">
+        <h2>The Circus Folk</h2>
+        <p>
+            _The Circus Folk_, who travel and work with the circus, but are not visibly different. All of them are not performers, but all are somehow not normal.
+        </p>
+    </div>
+    <div class="4u 12u$(small)">
+        <h2>The Outsiders</h2>
+        <p>
+            _The Outsiders_ are people currently traveling with the circus, but who can go back to society if they choose so.   
+        </p>
+    </div>
+
+
+
+
+
 </div>
