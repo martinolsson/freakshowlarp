@@ -1,9 +1,8 @@
 ---
-layout: page
 title: World &amp; Story
+layout: page
 landing-title: The World of The Freak Show
 description: Suffering and companionship for those who are different
-
 show-in-nav: true
 image: assets/images/slum.jpg
 order: 2
