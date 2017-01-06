@@ -20,20 +20,15 @@
     <div class="inner">
         <header class="major">
 			<h1>
-				{% if page.landing-title != blank %}
-					{{ page.landing-title}}
+				{% if page.landing-title == nil || page.landing-title == empty %}
+                    {{ page.title }}
 				{% else %}
-					{{ page.title }}
+					{{ page.landing-title}}
 				{% endif %}
 			</h1>
         </header>
         <div class="content">
-    		{% if page.image %}
-				<img class="image left" src="{{ site.baseurl }}/{{ page.image }}" alt="">
-			{% endif %}
-
 			<p>{{ content }}</p>
-
         </div>
     </div>
 </section>

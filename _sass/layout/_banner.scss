@@ -63,6 +63,14 @@
 
 			header {
 				width: auto;
+				.logo {
+					display: block;
+					width: 60% !important;
+					margin: 0 auto 4em auto;
+
+				}
+
+
 
 				> :first-child {
 					width: auto;

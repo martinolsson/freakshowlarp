@@ -1,12 +1,39 @@
 ---
 title: Vision
+description: Why we want to create Freak Show with you  
 layout: page
 show-in-nav: true
-image: assets/images/Location2.jpg
+image: assets/images/curtains.jpeg
 order: 1
 ---
 
-“We didn't lie to you folks. We told you we had living, breathing monstrosities. You laughed at them, shuddered at them. And yet, but for the accident of birth, you might be one as they are. They did not ask to be brought into the world. But into the world they came. Their code is a law unto themselves: offend one and you offend them all.” (Carnival Barker, Freaks, 1932)
+<div class="row">
+<div class="8u 12u$(small)">
+
+<div class="box" style="font-style: italic; ">
+
+<p>When I saw the thrill and joy ignite in his eyes it was freedom. We were outside everything, law, society and all things normal. Suddenly there was no one to define us, judge us or get offended by our existence and we were free. The twilight in the run down, abandoned amusement park seeped with tragedy, magic and wonder. We ran and laughed. It seemed like the place was telling us that the terrible price of true freedom is abandonment. The moment moved me deeply. It resonated with a hidden truth in beautiful emotions. I knew I had to share this junction point of truth and human experience.</p>
+
+<p>This is why I am creating a Freak Show larp in an abandoned amusement park in Finland. I want to create a story of otherness, hope, being outcast from society, love, freedom and magic in the romantic gothic horror genre.</p>
+
+<p>The project is a leap of faith, as all good things are. I started to talk about it and saw that the idea resonated with community. I gathered an international, experienced crew to create this with me. Now all that I am missing are the people playing the roles in this story, the 45 co-creators I need to make this dream come true. I will not call the participants players, because this is not a game, not a problem to solve,not something to win. This is a unique, once in a lifetime experience we will create together. This will move us and change us.</p>
+
+<p>I need you to give this all you’ve got to create a journey we will never forget.</p>
+
+<p>So, what kind of a freak are you?</p>
+<p>&mdash; Nina Teerilahti, Espoo, 2017</p>
+</div>
+</div>
+
+<div class="4u 12u$(small)">
+
+
+<p class="lead" style="margin-top: 4em"><span style="font-size:8em;line-height: 0px;vertical-align: bottom">“</span> We didn't lie to you folks. We told you we had living, breathing monstrosities. You laughed at them, shuddered at them. And yet, but for the accident of birth, you might be one as they are. They did not ask to be brought into the world. But into the world they came. Their code is a law unto themselves: offend one and you offend them all.<br> &mdash; Carnival Barker, Freaks, 1932</p>
+
+
+
+</div>
+</div>
 
 When talking about a LARP, it seems strange to start with a description of what it is not. However with a thematically challenging LARP like this, we wanted to be clear up-front about the intentions and the design choices behind the game.  The title, “Freak Show” is emotive.  We could have called it “Side Show” or “Carnivale” (after the popular television series), but this would have occluded the dialogue we need to have.  
 

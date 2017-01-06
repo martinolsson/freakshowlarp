@@ -25,8 +25,15 @@ What Nina does in the LARP.
 
 ### Dominika Cembala
 
+Short description of Dominika
+
+What Dominika does in the LARP.
 
 ### Alessandro Giovannucci
+
+Short description of Alessandro
+
+What Alessandro does in the LARP.
 
 ### Simon Brind
 

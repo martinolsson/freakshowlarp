@@ -1,22 +1,18 @@
 ---
-title: World &amp; Story
 layout: page
+title: World &amp; Story
 landing-title: The World of The Freak Show
+description: Suffering and companionship for those who are different
+
 show-in-nav: true
 image: assets/images/slum.jpg
 order: 2
 ---
 
-<div class="row">
-	<div class="7u 12u(small)">
-		<p class="lead">The world of the Freak Show is more unaccepting than the one we live in. Different people face every day violence, neglect, despise and ridicule. It is a widely accepted unspoken norm that different people are of less value than the normal ones and can be treated inhumanely.</p>
+The world of the Freak Show is more unaccepting than the one we live in. People who are different face violence, neglect, despite and ridicule every day. It is a widely accepted unspoken norm that those who are different are of less value and can be treated inhumanely.
+{: "lead"}
 
-		<p class="lead">In Freak Show’s world normal is defined narrowly. You are either a healthy, caucasian, monogamous heterosexual, man or a woman, and act and look just like everyone else, or you are a freak.</p>
-	</div>
-	<div class="5u 12u(small>">
-		<img class="image fit" src="/freakshowlarp/assets/images/slum.jpg" alt=""/>
-	</div>
-</div>
+In Freak Show’s world normal is defined narrowly. You are either a healthy, caucasian, monogamous heterosexual, man or a woman, and act and look just like everyone else, or you are a freak.
 
 
 <div class="row">

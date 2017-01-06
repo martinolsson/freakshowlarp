@@ -17,5 +17,21 @@ _The Freaks_, who have some clearly visible factor that makes them unfit to norm
 _The Outsiders_ are people currently traveling with the circus, but who can go back to society if they choose so.
 
 <div class="row">
+    <div class="4u 12u$(small)">
+        <h4>Freaks</h4>
+        <ul>
+            <li>
+                <img class="image right" src="assets/images/pic06.jpg" alt=""/>
+                <b>Freak 1</b>
+                <p>Bla bla bla bla bla bla bla bla. <a>&hellip;</a></p>
 
+                <div class="more">
+                    <p>Bla bla bla bla bla bla bla bla.</p>
+                    <p>Bla bla bla bla bla bla bla bla.</p>
+                    <p>Bla bla bla bla bla bla bla bla.</p>
+                    <p>Bla bla bla bla bla bla bla bla.</p>
+                </div>
+            </li>
+        </ul>
+    </div>
 </div>
