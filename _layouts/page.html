@@ -20,7 +20,7 @@
     <div class="inner">
         <header class="major">
 			<h1>
-				{% if page.landing-title == nil || page.landing-title == empty %}
+				{% if page.landing-title == nil or page.landing-title == empty %}
                     {{ page.title }}
 				{% else %}
 					{{ page.landing-title}}

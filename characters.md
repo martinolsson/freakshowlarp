@@ -11,27 +11,32 @@ You are in the Freak Show because you have no other option. Even if you're  not 
 {:.lead}
 
 <div class="row">
-    <div class="4u 12u$(small)">
+    <div class="6u 12u$(small)">
         <h2>The Freaks</h2>
         <p>
             _The Freaks_, who have some clearly visible factor that makes them unfit to normal society. They are the star performers.
         </p>
+        <p>
+            <ul class="characters">
+                {% for character in site.characters %}
+                    <li>
+                        {% if character.image != empty and character.image != nil %}
+                            <img class="image" src="{{ site.baseurl }}/{{ character.image }}" alt="" />
+                        {% endif %}
+                        <div class="name">{{ character.title }}</div>
+                        <div class="role">{{ character.role }}</div>
+                        <div class="content">
+                            {{ character.content }}
+                        </div>
+                    </li>
+                {% endfor %}
+            </ul>
+        </p>
     </div>
-    <div class="4u 12u$(small)">
+    <div class="6u 12u$(small)">
         <h2>The Circus Folk</h2>
         <p>
             _The Circus Folk_, who travel and work with the circus, but are not visibly different. All of them are not performers, but all are somehow not normal.
         </p>
     </div>
-    <div class="4u 12u$(small)">
-        <h2>The Outsiders</h2>
-        <p>
-            _The Outsiders_ are people currently traveling with the circus, but who can go back to society if they choose so.   
-        </p>
-    </div>
-
-
-
-
-
 </div>

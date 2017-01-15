@@ -1,0 +1,33 @@
+ul.characters {
+    list-style: none;
+    padding: 0;
+    li {
+        padding: 0;
+        .name {
+            text-transform: uppercase;
+            display: inline-block;
+            font-weight: bold;
+        }
+        .role {
+            display: inline-block;
+            &::before {
+                content: "\2014";
+                margin: 0 1em;
+            }
+        }
+        .image {
+            width: 128px;
+            height: 128px;
+            border-radius: 64px;
+            float: right;
+            margin: 1.25em 0 1.25em 1.25em;
+        }
+        &:nth-child(odd) {
+            .image {
+                float: left;
+                margin: 1.25em 1.25em 1.25em 0;
+
+            }
+        }
+    }
+}

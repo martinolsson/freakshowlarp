@@ -10,7 +10,7 @@ collections:
     output: true
   characters:
     title: characters
-    output: true
+    output: false
 subtitle: Join The Last Show
 email: freakshowlarp@gmail.com
 description: Freak Show is a LARP about the final days of the last freak show. It
@@ -19,27 +19,27 @@ description: Freak Show is a LARP about the final days of the last freak show. I
   It is a romantic horror story in the gothic style. The game will end with the final
   song of the last performance of the freak circus and with the devil coming to take
   them all to perform for him forever.
-baseurl: 
+baseurl:
 url: http://freakshowlarp.siteleaf.net/
-author: 
-street_address: 
-city: 
-state: 
-zip_code: 
-country: 
-phone: 
+author:
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
 tiles-source: pages
 tiles-count: 20
-500px_url: 
+500px_url:
 facebook_url: https://www.facebook.com/groups/freakshowlarp/
-github_url: 
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: 
-pinterest_url: 
-slack_url: 
-twitter_url: 
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
 markdown: kramdown
 sass:
   sass_dir: _sass

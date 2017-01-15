@@ -2246,6 +2246,30 @@ button,
     .spotlights > section > .content {
       padding: 3em 1.5em 1em 1.5em ; } }
 
+ul.characters {
+  list-style: none;
+  padding: 0; }
+  ul.characters li {
+    padding: 0; }
+    ul.characters li .name {
+      text-transform: uppercase;
+      display: inline-block;
+      font-weight: bold; }
+    ul.characters li .role {
+      display: inline-block; }
+      ul.characters li .role::before {
+        content: "\2014";
+        margin: 0 1em; }
+    ul.characters li .image {
+      width: 128px;
+      height: 128px;
+      border-radius: 64px;
+      float: right;
+      margin: 1.25em 0 1.25em 1.25em; }
+    ul.characters li:nth-child(odd) .image {
+      float: left;
+      margin: 1.25em 1.25em 1.25em 0; }
+
 /* Header */
 @-moz-keyframes reveal-header {
   0% {
