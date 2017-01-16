@@ -7,7 +7,6 @@ show-in-nav: true
 order: 3
 ---
 
-
 You are in the Freak Show because you have no other option. Even if you're not visibly different, there is something that sets you aside from normal society. Maybe you made yourself different on the outside too even though you weren’t like that to start with.
 {:.lead}
 
