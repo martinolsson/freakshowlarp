@@ -1,7 +1,7 @@
 ---
 title: Characters & Groups
 layout: page
-description: Who are The Sisters? Read all about Mietti.
+description: The full cast. What kind of freak are you?
 landing-title: Who is Who in The Freak Show
 show-in-nav: true
 order: 3
@@ -19,20 +19,27 @@ Read through the roles listed here. When you've chosen one or more roles you lik
     <div class="6u 12u$(small)">
         <h2>The Freaks</h2>
         <p>
-            <em>The Freaks</em>, all have some clearly visible factor that makes them unfit to normal society. They are the star performers of the Freak Show.
+            <em>The Freaks</em>, all have some clearly visible factor that makes them unfit to normal society. They are the star performers of the Freak Show, and also those who receive the most hate.
         </p>
         <p>
             <ul class="characters">
-                {% for character in site.characters %}
-                    <li>
+
+                {% assign freaks = site.characters | where: "affinity", "Freaks" | sort: "order"  %}
+
+                {% for character in freaks %}
+                    <li class="clearfix">
                         {% if character.image != empty and character.image != nil %}
                             <img class="image" src="{{ site.baseurl }}/{{ character.image }}" alt="" />
                         {% endif %}
                         <div class="name">{{ character.title }}</div>
                         <div class="role">{{ character.role }}</div>
-                        <div class="content">
-                            {{ character.content }}
-                        </div>
+                        <div class="description">{{ character.description }}</div>
+                        {% if character.requirements != empty and character.requirements != nil %}
+                            <div class="requirements"><strong>Player requirements:</strong> {{ character.requirements }}</div>
+                        {% endif %}
+                        {% if character.applications != empty and character.applications != nil %}
+                            <div class="applications"><strong>Current applications:</strong> {{ character.applications }}</div>
+                        {% endif %}
                     </li>
                 {% endfor %}
             </ul>
@@ -43,5 +50,32 @@ Read through the roles listed here. When you've chosen one or more roles you lik
         <p>
             <em>The Circus Folk</em> travel and work with the circus, but are not visibly different. All of them are not performers, but all are somehow not normal.
         </p>
+
+        <p>
+            <ul class="characters">
+
+                {% assign folks = site.characters | where: "affinity", "Circus" | sort: "order" %}
+
+                {% for character in folks %}
+                    <li class="clearfix">
+                        {% if character.image != empty and character.image != nil %}
+                            <img class="image" src="{{ site.baseurl }}/{{ character.image }}" alt="" />
+                        {% endif %}
+                        <div class="name">{{ character.title }}</div>
+                        <div class="role">{{ character.role }}</div>
+                        <div class="description">
+                            {{ character.description }}
+                        </div>
+                        {% if character.requirements != empty and character.requirements != nil %}
+                            <div class="requirements"><strong>Player requirements:</strong> {{ character.requirements }}</div>
+                        {% endif %}
+                        {% if character.applications != empty and character.applications != nil %}
+                            <div class="applications"><strong>Current applications:</strong> {{ character.applications }}</div>
+                        {% endif %}
+                    </li>
+                {% endfor %}
+            </ul>
+        </p>
+
     </div>
 </div>

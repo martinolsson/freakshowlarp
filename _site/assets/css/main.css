@@ -1707,6 +1707,21 @@ a.icon.alt:active:before {
       .image.main {
         margin: 1.5em 0; } }
 
+.video {
+  position: relative;
+  padding-bottom: 56.25%;
+  margin-bottom: 40px;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  border: 2px solid white; }
+  .video > iframe, .video > object, .video > embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+
 /* List */
 ol {
   list-style: decimal;
@@ -2250,8 +2265,13 @@ ul.characters {
   list-style: none;
   padding: 0; }
   ul.characters li {
-    padding: 0; }
+    padding: 0;
+    margin-bottom: 2em;
+    clear: both; }
+    ul.characters li > div {
+      margin-bottom: .5em; }
     ul.characters li .name {
+      font-size: 22px;
       text-transform: uppercase;
       display: inline-block;
       font-weight: bold; }
@@ -2667,6 +2687,11 @@ ul.characters {
   #full-logo:hover > img {
     max-width: 55%;
     opacity: 1; }
+
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both; }
 
 /* Contact */
 #contact {

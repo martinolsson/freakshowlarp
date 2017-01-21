@@ -6,11 +6,17 @@ show-in-nav: true
 image: assets/images/curtains.jpeg
 order: 1
 ---
+<div class="video">
+<iframe src="https://www.youtube.com/embed/t2g5yU0sDZ0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 
 <div class="row">
 <div class="8u 12u$(small)" markdown="1">
 
 The Freak Show is a Nordic style LARP and a co-created art piece. It tells the story of the last days of a  freak show and explores the theme of otherness, being an outcast in a society far more hating and violent than ours. The story is a dark one, but there will also be compassion, hope and love. In this story, the freaks stand together.
+{:.lead}
 
 The site of the event is an abandoned amusement park and a nearby campsite. It is an un-place which fits the romantic gothic horror mood of the piece. There will be no jump scares or dramatic effects, but the circus has subtle hints of the supernatural that we hope will create a sensation of slow, creeping horror.  
 
