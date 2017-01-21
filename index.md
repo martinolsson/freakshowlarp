@@ -2,9 +2,9 @@
 title: Home
 layout: home
 landing-title: Welcome to the Freak Show
-description: 
-image: 
-author: 
+description:
+image:
+author:
 ---
 
 <div class="row">
@@ -15,5 +15,5 @@ author:
 
 </div>
 <div class="5u 12u(small)">
-<p class="lead" style="margin-top: 100px">######### Freak Show is a LARP in the nordic tradition. It is about being an outsider, different and hated. It is about love, family, mirror images, magic, beauty, decay, cotton candy, religion, and stuff.</p>
+<p class="lead" style="margin-top: 100px">The Freak Show is a Nordic style LARP that tells the story of the last days of a circus and freak show.  It will be held in an abandoned amusement park in Finland in the autumn of 2017. The participants will experience both the magic and the tragedy of being the other as one of the freaks aligned against a hostile world. The theme of this collaborative work is otherness.  We aim for full 360 degree immersion in a romantic gothic horror story setting. This event is not suitable for children.</p>
 </div>
