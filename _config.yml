@@ -13,28 +13,34 @@ collections:
     output: false
 subtitle: Join The Last Show
 email: freakshowlarp@gmail.com
-description: The Freak Show is a Nordic style larp that tells the story of the last days of a circus and freakshow.  It will be held in an abandoned amusement park in Finland in the autumn of 2017. The participants will experience both the magic and the tragedy of being the other as one of the freaks aligned against a hostile world. The theme of this collaborative work is otherness.  We aim for full 360 degree immersion in a romantic gothic horror story setting. This event is not suitable for children.
-baseurl:
+description: The Freak Show is a Nordic style larp that tells the story of the last
+  days of a circus and freakshow.  It will be held in an abandoned amusement park
+  in Finland in the autumn of 2017. The participants will experience both the magic
+  and the tragedy of being the other as one of the freaks aligned against a hostile
+  world. The theme of this collaborative work is otherness.  We aim for full 360 degree
+  immersion in a romantic gothic horror story setting. This event is not suitable
+  for children.
+baseurl: 
 url: http://freakshow.co/
-author:
-street_address:
-city:
-state:
-zip_code:
-country:
-phone:
+author: 
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone: 
 tiles-source: pages
 tiles-count: 20
-500px_url:
+500px_url: 
 facebook_url: https://www.facebook.com/groups/freakshowlarp/
-github_url:
-gitlab_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-pinterest_url:
-slack_url:
-twitter_url:
+github_url: 
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
+pinterest_url: 
+slack_url: 
+twitter_url: 
 markdown: kramdown
 sass:
   sass_dir: _sass
