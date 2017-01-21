@@ -6,6 +6,7 @@ show-in-nav: true
 image: assets/images/curtains.jpeg
 order: 1
 ---
+
 <div class="video">
 <iframe src="https://www.youtube.com/embed/t2g5yU0sDZ0" frameborder="0" allowfullscreen></iframe>
 </div>
