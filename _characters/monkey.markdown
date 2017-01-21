@@ -2,7 +2,7 @@
 title: Arne "The Monkey"
 date: 2017-01-02 01:53:00 Z
 role: monkey performer
-group: Circus folk
+group: Circus Folk
 image: assets/images/curtains.jpeg
 ---
 

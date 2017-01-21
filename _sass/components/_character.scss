@@ -31,3 +31,13 @@ ul.characters {
         }
     }
 }
+
+.application-form {
+    width: 66vw;
+    height: 66vh;
+
+    @include breakpoint(small) {
+        width: 80vw;
+        height: 66vh;
+    }
+}

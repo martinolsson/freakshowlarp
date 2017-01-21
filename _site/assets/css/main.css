@@ -2270,6 +2270,14 @@ ul.characters {
       float: left;
       margin: 1.25em 1.25em 1.25em 0; }
 
+.application-form {
+  width: 66vw;
+  height: 66vh; }
+  @media screen and (max-width: 736px) {
+    .application-form {
+      width: 80vw;
+      height: 66vh; } }
+
 /* Header */
 @-moz-keyframes reveal-header {
   0% {
