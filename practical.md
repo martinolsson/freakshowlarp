@@ -8,10 +8,6 @@ show-in-nav: true
 order: 4
 ---
 
-
-
-
-
 <div class="row">
 
 <div class="6u 12u(small)" markdown="1">
