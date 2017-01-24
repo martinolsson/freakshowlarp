@@ -8,7 +8,6 @@ show-in-nav: true
 order: 4
 ---
 
-
 <p class="lead">Here's all(?) you need to know about Freak Show. If we missed something, or if something is not clear, please ask in our <a href="{{ site.facebook_url }}" target="_blank">Facebook Group</a> or E-mail us: <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 </p>
 
