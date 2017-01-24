@@ -3,7 +3,7 @@ title: Apply
 layout: page
 description: How to become a Freak
 landing-title: So you want to Join the Freak Show?
-image: assets/images/Location.jpg
+image: assets/images/Location_small.jpg
 show-in-nav: true
 order: 5
 ---

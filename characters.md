@@ -5,6 +5,7 @@ description: The full cast. What kind of freak are you?
 landing-title: Who is Who in The Freak Show
 show-in-nav: true
 order: 3
+image: assets/images/indian-albino-family-crop.jpg
 ---
 
 You are in the Freak Show because you have no other option. Even if you're not visibly different, there is something that sets you aside from normal society. Maybe you made yourself different on the outside too even though you weren’t like that to start with.
@@ -28,18 +29,22 @@ Read through the roles listed here. When you've chosen one or more roles you lik
 
                 {% for character in freaks %}
                     <li class="clearfix">
+                        <div class="name">{{ character.title }}</div>
+                        <div class="role">{{ character.role }}</div>
+
                         {% if character.image != empty and character.image != nil %}
                             <img class="image" src="{{ site.baseurl }}/{{ character.image }}" alt="" />
                         {% endif %}
-                        <div class="name">{{ character.title }}</div>
-                        <div class="role">{{ character.role }}</div>
                         <div class="description">{{ character.description }}</div>
                         {% if character.requirements != empty and character.requirements != nil %}
-                            <div class="requirements"><strong>Player requirements:</strong> {{ character.requirements }}</div>
+                            <div class="requirements"><strong>Requirements:</strong> {{ character.requirements }}</div>
                         {% endif %}
                         {% if character.applications != empty and character.applications != nil %}
                             <div class="applications"><strong>Current applications:</strong> {{ character.applications }}</div>
                         {% endif %}
+                        <center>
+                            <a href="#" class="button small">Apply for this role</a>
+                        </center>
                     </li>
                 {% endfor %}
             </ul>
@@ -61,8 +66,10 @@ Read through the roles listed here. When you've chosen one or more roles you lik
                         {% if character.image != empty and character.image != nil %}
                             <img class="image" src="{{ site.baseurl }}/{{ character.image }}" alt="" />
                         {% endif %}
-                        <div class="name">{{ character.title }}</div>
-                        <div class="role">{{ character.role }}</div>
+                        <center>
+                            <div class="name">{{ character.title }}</div>
+                            <div class="role">{{ character.role }}</div>
+                        </center>
                         <div class="description">
                             {{ character.description }}
                         </div>

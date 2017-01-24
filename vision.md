@@ -3,7 +3,7 @@ title: Vision
 description: Why we want to create Freak Show with you
 layout: page
 show-in-nav: true
-image: assets/images/curtains.jpeg
+image: assets/images/curtains_small.jpg
 order: 1
 ---
 <div class="video">

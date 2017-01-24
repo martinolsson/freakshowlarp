@@ -7,7 +7,7 @@ show-in-nav: true
 order: 6
 ---
 
-<img src="assets/images/circusnoir.jpg" class="image right" alt="Circus Noir"/>
+<img src="assets/images/circusnoir_small.jpg" class="image right" alt="Circus Noir"/>
 
 ## Get in Touch With Us
 

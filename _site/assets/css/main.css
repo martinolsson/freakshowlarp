@@ -2280,6 +2280,10 @@ ul.characters {
       ul.characters li .role::before {
         content: "\2014";
         margin: 0 1em; }
+    ul.characters li .applications {
+      text-align: center; }
+    ul.characters li .requirements > strong {
+      text-decoration: underline; }
     ul.characters li .image {
       width: 128px;
       height: 128px;
@@ -2289,6 +2293,12 @@ ul.characters {
     ul.characters li:nth-child(odd) .image {
       float: left;
       margin: 1.25em 1.25em 1.25em 0; }
+    ul.characters li .button {
+      margin-top: .5em 0 4em 0;
+      opacity: 0;
+      transition: all 1s; }
+    ul.characters li:hover .button {
+      opacity: 1; }
 
 .application-form {
   width: 66vw;
@@ -2509,7 +2519,7 @@ ul.characters {
   -ms-align-items: center;
   align-items: center;
   background-image: url("../../assets/images/banner.jpg");
-  background-image: url("../../assets/images/barnum-bailey.jpg");
+  background-image: url("../../assets/images/barnum-bailey-lo.jpg");
   display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;

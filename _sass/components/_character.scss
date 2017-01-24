@@ -21,6 +21,14 @@ ul.characters {
                 margin: 0 1em;
             }
         }
+        .applications {
+            text-align: center;
+        }
+        .requirements {
+            > strong {
+                text-decoration: underline;
+            }
+        }
         .image {
             width: 128px;
             height: 128px;
@@ -32,8 +40,20 @@ ul.characters {
             .image {
                 float: left;
                 margin: 1.25em 1.25em 1.25em 0;
-
             }
+        }
+        .button {
+            margin-top: .5em 0 4em 0;
+            opacity: 0;
+            transition: all 1s;
+
+        }
+
+        &:hover {
+            .button {
+                opacity: 1;
+            }
+
         }
     }
 }
