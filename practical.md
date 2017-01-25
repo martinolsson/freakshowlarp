@@ -1,5 +1,6 @@
 ---
 title: Practical
+position: 2
 layout: page
 description: All you need to know to take part
 landing-title: Practical details about the LARP

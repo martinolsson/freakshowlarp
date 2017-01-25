@@ -1,5 +1,6 @@
 ---
 title: Characters & Groups
+position: 1
 layout: page
 description: The full cast. What kind of freak are you?
 landing-title: Who is Who in The Freak Show
