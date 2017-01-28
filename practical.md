@@ -200,4 +200,4 @@ We will sleep at the camping, but the main game will happen at the amusement par
 
 If you have any concerns or something we could provide to make it possible for you to attend this LARP, please contact us, we will see what we can do.
 
-<a href="mailto:freakshow@gmail.com">mailto:freakshow@gmail.com</a>
+<a href="mailto:freakshow@gmail.com">freakshow@gmail.com</a>
