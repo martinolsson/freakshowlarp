@@ -23,7 +23,8 @@ The LARP runs from __Friday the 15th of September__ to __Sunday the 17th of Sept
 Once you have been cast to a role we expect payment in 30 days via bank transfer or Paypal.
 
 There will be Larpfund tickets available at half price, if we get them. People with disabilities who need an assistant (personal assistant or an interpreter) to take part in the game will be prioritized to get the assistant into the game for free.
-The site and getting there
+
+## The site and getting there
 
 <div class="row">
 
@@ -66,16 +67,18 @@ Initial casting will be done anonymously based on a short form. We will build yo
 <section class="box special">
 <div class="row">
 <div class="3u 12u$(small)" markdown="1">
+
 ### Friday
 
-
 Arrival to the site starting from 17:00. Workshops from 20:00.
+
 </div>
 <div class="3u 12u$(small)"  markdown="1">
 
 ### Saturday
 
 In game from 8:00.
+
 </div>
 <div class="3u 12u$(small)"  markdown="1">
 
@@ -83,18 +86,21 @@ In game from 8:00.
 
 Game end around 20:30.
 After party from 21:00.
+
 </div>
 <div class="3u 12u$(small)"  markdown="1">
 
 ### Monday
 
 Leaving the site at morning.
+
 </div>
 </div>
 </section>
 
 <div class="row">
 <div class="6u 12u$(small)" markdown="1">
+
 ## Game area
 
 There are two game areas with 1,5 km in between, the camping site and the amusement park. Both areas are reserved for us as a private event. In addition to this lunch and dinner will be served in a nearby hotel’s restaurant 500 m from the amusement park. This space is also private.
