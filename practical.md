@@ -168,10 +168,10 @@ There is a wheelchair friendly toilet at the camping site and if needed, we will
 The cabins spaces are quite tight and there is a 10cm door step to get in. The beds are bunk beds, but some cabins have a double bed  and one bunk bed instead and those can be used if they make using the cabin easier.
 
 <div class="row">
-<div class="6u 12u$(small)" markdown="1">
+<div class="6u 12u$(small)">
 <img src="assets/images/Camping-4.jpg" class="image fit" alt="Image of showers at camping site"/>
 </div>
-<div class="6u 12u$(small)" markdown="1">
+<div class="6u 12u$(small)">
 <img src="assets/images/Camping-6.jpg" class="image fit" alt="Image of showers at camping site"/>
 </div>
 </div>
