@@ -44,7 +44,7 @@ For your FIRST CHOICE of character please answer the following questions:
 We are looking for co-creators so our advice is to be _creative_ and _passionate_.
 
 Every character’s description proposes several leads and possibilities, some will be developed, some will not, is up to you.
-Surprising: add your personal touch. Delight us! We want you and your unique ideas.
+Add your personal touch. Delight us! We want you and your unique ideas.
 
 Show that you want to create this with us as badly as we do, tell us what will you bring to this magical and intense experience.
 
