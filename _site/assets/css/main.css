@@ -2265,6 +2265,7 @@ ul.characters {
   list-style: none;
   padding: 0; }
   ul.characters li {
+    position: relative;
     padding: 0;
     margin-bottom: 2em;
     clear: both; }
@@ -2289,14 +2290,23 @@ ul.characters {
       height: 148px;
       border-radius: 74px;
       float: right;
-      margin: 1em 0 1em 1em; }
+      margin: 1em 0 1em 1em;
+      transition: all 1s ease; }
+      ul.characters li .image:hover {
+        width: calc(148px + 4em);
+        height: calc(148px + 4em);
+        border-radius: calc((148px + 4em) / 2);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+        margin: -3em 0 1em -3em; }
     ul.characters li:nth-child(odd) .image {
       float: left;
-      margin: 1.25em 1.25em 1.25em 0; }
+      margin: 1em 1em 1em 0; }
+      ul.characters li:nth-child(odd) .image:hover {
+        margin: -3em -3em 1em 0; }
     ul.characters li .button {
       margin-top: .5em 0 4em 0;
       opacity: 0;
-      transition: all 1s; }
+      transition: all 1s ease; }
     ul.characters li:hover .button {
       opacity: 1; }
 

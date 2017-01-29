@@ -81,7 +81,7 @@ Read through the roles listed here. When you've chosen one or more roles you lik
                             <div class="applications"><strong>Current applications:</strong> {{ character.applications }}</div>
                         {% endif %}
                         <center>
-                            <a href="#" class="button small">Apply for this role</a>
+                            <a href="/apply.html" class="button small">Apply for this role</a>
                         </center>
                     </li>
                 {% endfor %}
