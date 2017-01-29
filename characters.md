@@ -70,10 +70,10 @@ Read through the roles listed here. When you've chosen one or more roles you lik
                                 <img src="{{ site.baseurl }}/{{ character.image }}" alt="" />
                             </div>
                         {% endif %}
-                        <center>
-                            <div class="name">{{ character.title }}</div>
-                            <div class="role">{{ character.role }}</div>
-                        </center>
+
+                        <div class="name">{{ character.title }}</div>
+                        <div class="role">{{ character.role }}</div>
+
                         <div class="description">
                             {{ character.description }}
                         </div>
