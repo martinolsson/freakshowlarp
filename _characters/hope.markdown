@@ -8,5 +8,5 @@ description: You are Little Sister’s daughter and they both are your parents. 
   mothers for some reason. You despise the normals, they don’t know what means to
   be free. You try to show them as often as you can, so that their life could be better
   too. You don’t think they are dangerous, just stupid.
+layout: page
 ---
-

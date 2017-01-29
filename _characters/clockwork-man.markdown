@@ -10,5 +10,5 @@ description: You sold your heart to the Devil for immortality. The Devil tore it
 requirements: Ticking that can be heard inside you, a scar on your chest and a box
   with a heart, act on stage presenting these
 order: 10
+layout: page
 ---
-

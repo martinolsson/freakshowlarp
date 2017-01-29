@@ -16,5 +16,5 @@ description: You were born outside the Circus with a body covered with feathers.
   before they go, you think. You learned, that you can go to great lengths for the
   Family.
 requirements: feathery costume / prop-glue feathers to skin
+layout: page
 ---
-

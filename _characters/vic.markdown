@@ -10,5 +10,5 @@ description: Choosing is overrated. Black and white distinctions are for limited
   one day you will stop, and try to live an ordinary life. Being always the rebel
   is consuming you.
 requirements: having an on stage act, prop for an ambiguous aspect
+layout: page
 ---
-

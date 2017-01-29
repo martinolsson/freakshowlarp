@@ -7,6 +7,8 @@ description: After the incident you haven’t been able turn invisible. You can 
   hard every day. You’re sure you can get it back. You must because you had it once,
   didn’t you?
 order: 3
+layout: page
+image: assets/images/invisible_person.jpg
 ---
 
 extra stuff here

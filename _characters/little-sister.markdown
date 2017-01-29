@@ -11,5 +11,5 @@ description: You were born different and your sister saved you. She has created 
   a better life.
 requirements: Prop for some kind of visible deformity
 order: 1
+layout: page
 ---
-

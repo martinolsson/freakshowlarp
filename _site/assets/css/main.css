@@ -2285,11 +2285,11 @@ ul.characters {
     ul.characters li .requirements > strong {
       text-decoration: underline; }
     ul.characters li .image {
-      width: 128px;
-      height: 128px;
-      border-radius: 64px;
+      width: 148px;
+      height: 148px;
+      border-radius: 74px;
       float: right;
-      margin: 1.25em 0 1.25em 1.25em; }
+      margin: 1em 0 1em 1em; }
     ul.characters li:nth-child(odd) .image {
       float: left;
       margin: 1.25em 1.25em 1.25em 0; }

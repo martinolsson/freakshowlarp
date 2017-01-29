@@ -9,5 +9,5 @@ description: Anything can be fixed. People are born and die, things don’t. You
   your believes to people, sometimes you realize how useless it is and prefer being
   just Fix, the handyperson.
 requirements: being a little bricoleur
+layout: page
 ---
-

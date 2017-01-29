@@ -10,5 +10,5 @@ description: You could sell snow to the penguins, but it ain’t worth it becaus
   People come back time and time again for more of it. Maybe one day you’ll make it
   rich?
 applications: 8
+layout: page
 ---
-

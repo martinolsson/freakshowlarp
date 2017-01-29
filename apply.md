@@ -35,7 +35,6 @@ For your FIRST CHOICE of character please answer the following questions:
 - How will you make this character unique and alive?
 - How would you develop this character further?
 
-<a href="https://goo.gl/forms/mObwTqPF1eoIPVs92" target="_blank" class="button next scrolly">Apply now</a>
 
 </div>
 <div class="6u 12u$(small)">
