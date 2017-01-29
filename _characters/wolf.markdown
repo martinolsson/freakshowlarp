@@ -1,5 +1,5 @@
 ---
-title: Grandfather/Grandmother Wolf
+title: Grandpa / Grandma Wolf
 role: Priest
 affinity: Freaks
 image: assets/images/wolf_small.jpg
@@ -15,4 +15,3 @@ requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life ca
 layout: page
 order: 10
 ---
-

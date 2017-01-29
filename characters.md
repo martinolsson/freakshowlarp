@@ -30,13 +30,14 @@ Read through the roles listed here. When you've chosen one or more roles you lik
 
                 {% for character in freaks %}
                     <li class="clearfix">
+                        {% if character.image != empty and character.image != nil %}
+                            <div class="image">
+                                <img src="{{ site.baseurl }}/{{ character.image }}" alt="" />
+                            </div>
+                        {% endif %}
                         <div class="name">{{ character.title }}</div>
                         <div class="role">{{ character.role }}</div>
-
-                        {% if character.image != empty and character.image != nil %}
-                            <img class="image" src="{{ site.baseurl }}/{{ character.image }}" alt="" />
-                        {% endif %}
-                        <div class="description">{{ character.description }}</div>
+                        <div class="description">{{ character.description }}</div>                        
                         {% if character.requirements != empty and character.requirements != nil %}
                             <div class="requirements"><strong>Requirements:</strong> {{ character.requirements }}</div>
                         {% endif %}
@@ -65,7 +66,9 @@ Read through the roles listed here. When you've chosen one or more roles you lik
                 {% for character in folks %}
                     <li class="clearfix">
                         {% if character.image != empty and character.image != nil %}
-                            <img class="image" src="{{ site.baseurl }}/{{ character.image }}" alt="" />
+                            <div class="image right">
+                                <img src="{{ site.baseurl }}/{{ character.image }}" alt="" />
+                            </div>
                         {% endif %}
                         <center>
                             <div class="name">{{ character.title }}</div>

@@ -2286,18 +2286,31 @@ ul.characters {
     ul.characters li .requirements > strong {
       text-decoration: underline; }
     ul.characters li .image {
-      width: 148px;
-      height: 148px;
-      border-radius: 74px;
+      position: relative;
+      width: 150px;
+      height: 150px;
       float: left;
-      margin: 0 1em 1em 0;
-      transition: all 1s ease; }
-      ul.characters li .image:hover {
-        width: calc(148px + 4em);
-        height: calc(148px + 4em);
-        border-radius: calc((148px + 4em) / 2);
-        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
-        margin: 0 -3em -3em 0; }
+      margin: 0 1em 1em 0; }
+      ul.characters li .image > img {
+        top: 0;
+        left: 0;
+        position: absolute;
+        height: 150px;
+        width: 150px;
+        transition: all 1s ease;
+        border-radius: 75px; }
+      ul.characters li .image:hover > img {
+        height: 200px;
+        width: 200px;
+        border-radius: 100px;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6); }
+      ul.characters li .image.right {
+        float: right;
+        margin: 0 0 1em 1em; }
+        ul.characters li .image.right > img {
+          top: 0;
+          left: auto;
+          right: 0; }
     ul.characters li .button {
       margin-top: .5em 0 4em 0;
       opacity: 0;
