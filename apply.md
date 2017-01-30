@@ -9,15 +9,10 @@ show-in-nav: true
 order: 5
 ---
 
-Every character in this LARP is unique and complex. We want to match them with
-active and passionate participants. We want to assign to you the role that fits you the best, the one
-that can stimulate you the most. Freak Show will be co-created experience and we need you to make it happen.
+The Freak Show has pre-written characters that are unique and complex. We want to match them wit active and passionate participants. We want to assign to you the role that fits you the best, the one that can stimulate you the most.
 {:.lead}
 
 Signing up will be open at 12:00 UTC on 23rd of February and will be open until March 13th.
-
-This LARP uses pre-written characters. You can read all about our freaks and folks here: [Characters](/characters.html)
-
 
 We will cast the characters based on motivational letters. The casting process will be anonymized, which means we won’t know the name of the player requesting a character. We aim to complete casting by the end of March.
 
@@ -27,7 +22,7 @@ We will cast the characters based on motivational letters. The casting process w
 
 <div class="6u 12u$(small)" markdown="1">
 
-Read about the characters available <a href="/characters.html">here</a>. When you have decided which character you like best, fill in your the application form by clicking the link below.
+Read about the characters available <a href="/characters.html">here</a>. Choose a first and second choice from the characters. If you don’t get cast in your first choice or second choice, we will suggest another free character to you.
 
 For your FIRST CHOICE of character please answer the following questions:
 
