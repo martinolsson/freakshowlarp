@@ -20,9 +20,13 @@ order: 1
 The Freak Show is a Nordic style LARP and a co-created art piece. It tells the story of the last days of a  freak show and explores the theme of otherness, being an outcast in a society far more hating and violent than ours. The story is a dark one, but there will also be compassion, hope and love. In this story, the freaks stand together.
 {:.lead}
 
-The site of the event is an abandoned amusement park and a nearby campsite. It is an un-place which fits the romantic gothic horror mood of the piece. There will be no jump scares or dramatic effects, but the circus has subtle hints of the supernatural that we hope will create a sensation of slow, creeping horror.  
+The site of the event is an abandoned amusement park and a nearby campsite. The amusement park is an un-place that is perfect for the romantic gothic horror mood of the piece. There will be no jump scares or dramatic effects, but the Freak Show has subtle hints of the supernatural that we hope will create a sensation of slow, creeping horror.  
 
-There are places for 45 participants who will create the event with us. We are looking for people who share our passion and who want to create an experience that will move us and change us. As a co-creator you will live through the last days of the last freak show as one of it’s members -  a freak or a member of their extended circus family - you will get a first hand experience of otherness and all the magic and tragedy the freak show has to offer. You will develop your character and personal story together with other participants using the framework set up by the crew, before and during the event.
+There are places for 45 participants who will create the event with us.  We are looking for people who share our passion and who want to create an experience that will move us and change us. As a co-creator you will live through the last days of the last freak show as one of it’s members -  a freak or a member of their extended circus family. You will get a first hand experience of otherness and all the magic and tragedy the freak show has to offer.
+
+The last two days of the freak show will consist mainly of practising for the show and performing it at the end of the game. Most participants will perform on stage. There will be a real old circus tent with sound and audio equipment to use and also other equipment for the performers.
+
+We aim to live through this without breaks. There will be 36 hours of constant immersion. The goal is to live as the people we have created, through their stories, see what they see, do what they do, feel what they feel and when the end comes, go away from this world in a way that is true to them.
 
 ## What this is not
 
