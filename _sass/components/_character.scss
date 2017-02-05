@@ -32,19 +32,19 @@ ul.characters {
         }
         .image {
             position: relative;
-            width: 150px;
-            height: 150px;
+            width: 175px;
+            height: 175px;
 
             float: left;
-            margin: 0 1em 1em 0;
+            margin: 0 _size(element-margin) _size(element-margin) -_size(element-margin);
             > img {
                 top: 0;
                 left: 0;
                 position: absolute;
-                height: 150px;
-                width: 150px;
+                height: 175px;
+                width: 175px;
                 transition: all 1s ease;
-                border-radius: 75px;
+                border-radius: 100px;
             }
 
             &:hover  {
@@ -58,7 +58,7 @@ ul.characters {
 
             &.right {
                 float: right;
-                margin: 0 0 1em 1em;
+                margin: 0 -_size(element-margin) _size(element-margin) _size(element-margin);
                 > img {
                     top: 0;
                     left: auto;

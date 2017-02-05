@@ -2287,18 +2287,18 @@ ul.characters {
       text-decoration: underline; }
     ul.characters li .image {
       position: relative;
-      width: 150px;
-      height: 150px;
+      width: 175px;
+      height: 175px;
       float: left;
-      margin: 0 1em 1em 0; }
+      margin: 0 1.5em 1.5em -_size(element-margin); }
       ul.characters li .image > img {
         top: 0;
         left: 0;
         position: absolute;
-        height: 150px;
-        width: 150px;
+        height: 175px;
+        width: 175px;
         transition: all 1s ease;
-        border-radius: 75px; }
+        border-radius: 100px; }
       ul.characters li .image:hover > img {
         height: 200px;
         width: 200px;
@@ -2306,7 +2306,7 @@ ul.characters {
         box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6); }
       ul.characters li .image.right {
         float: right;
-        margin: 0 0 1em 1em; }
+        margin: 0 -_size(element-margin) 1.5em 1.5em; }
         ul.characters li .image.right > img {
           top: 0;
           left: auto;
