@@ -73,6 +73,7 @@ For seven years there have been droughts and floods.  In America the dust bowl h
 (This is not to say there are no good Christian characters, but rather that the organised Church is not a friend of the circus.)
 
 ## <a href="/backstory.html">Backstory &raquo;</a>
+
 ## <a href="/magic.html">Magic &raquo;</a>
 
 </div>
