@@ -1,6 +1,6 @@
 ---
 title: Home
-position: 4
+position: 0
 layout: home
 landing-title: Welcome to the Freak Show
 description: 
