@@ -1,6 +1,6 @@
 ---
 title: Vision
-position: 0
+position: 1
 description: Why we want to create Freak Show with you
 layout: page
 show-in-nav: true

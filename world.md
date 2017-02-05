@@ -1,6 +1,6 @@
 ---
 title: World &amp; Story
-position: 4
+position: 6
 layout: page
 landing-title: The World of The Freak Show
 description: Suffering and companionship for those who are different
