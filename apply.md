@@ -1,6 +1,6 @@
 ---
 title: Sign up
-position: 7
+position: 6
 layout: page
 description: How to become a Freak
 landing-title: So you want to Join the Freak Show?
