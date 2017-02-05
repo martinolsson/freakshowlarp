@@ -1,6 +1,6 @@
 ---
 title: Backstory
-position: 5
+position: 0
 layout: page
 show-in-nav: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: About us
-position: 7
+position: 6
 layout: page
 description: Who we are and how to get in touch with us
 landing-title: The Organisers
