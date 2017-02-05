@@ -1,6 +1,6 @@
 ---
 title: Magic
-position: 0
+position: 8
 layout: page
 show-in-nav: false
 ---
