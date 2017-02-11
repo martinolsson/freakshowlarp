@@ -1,6 +1,6 @@
 ---
 title: Ruby or Rocky Ricochet
-position: 39
+position: 40
 role: Burlesque artist
 affinity: Freaks
 description: A bit of timeless tease for the boys and girls; a hint of 1950s, a bit
