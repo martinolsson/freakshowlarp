@@ -1,6 +1,6 @@
 ---
 title: Darwin
-position: 25
+position: 26
 role: The missing link
 affinity: Freaks
 description: You can read the 23 tome Encyclopedia Britannica in a day and remember

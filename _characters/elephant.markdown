@@ -1,6 +1,6 @@
 ---
 title: Elephant man/woman
-position: 26
+position: 27
 role: Performer
 affinity: Freaks
 description: You actually have looks that even a mother couldn’t love. You were abandoned
