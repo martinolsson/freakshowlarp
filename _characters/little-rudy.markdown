@@ -1,6 +1,6 @@
 ---
 title: Little Rudy
-position: 37
+position: 38
 role: The fat man/woman
 affinity: Freaks
 description: People say you’re fat, but it’s not like that. Regular folk don’t understand

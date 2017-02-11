@@ -1,6 +1,6 @@
 ---
 title: Little Sister
-position: 21
+position: 22
 affinity: Freaks
 role: Leader
 description: You were born different and your sister saved you from your mother. She
