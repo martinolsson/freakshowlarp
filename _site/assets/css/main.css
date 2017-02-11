@@ -2301,7 +2301,8 @@ ul.characters {
   position: relative;
   padding-bottom: 75%;
   height: 0;
-  overflow: hidden; }
+  overflow: hidden;
+  margin-bottom: 1.5em; }
   .responsive-embed iframe {
     position: absolute;
     top: 0;

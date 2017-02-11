@@ -18,27 +18,27 @@ description: Freak Show is a larp held in an abandoned amusement park in Finland
   through a romantic gothic horror setting. A family of outcasts and freaks struggle
   to survive in a hostile world. In the end, as the last song fades away, the devil
   will come to take them all to perform for him forever.
-baseurl: 
+baseurl:
 url: http://freakshow.co/
-author: 
-street_address: 
-city: 
-state: 
-zip_code: 
-country: 
-phone: 
+author:
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
 tiles-source: pages
 tiles-count: 20
-500px_url: 
+500px_url:
 facebook_url: https://www.facebook.com/groups/freakshowlarp/
-github_url: 
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: 
-pinterest_url: 
-slack_url: 
-twitter_url: 
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
 markdown: kramdown
 sass:
   sass_dir: _sass

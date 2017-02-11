@@ -41,7 +41,7 @@ The Sister’s have always had the dream of creating a safe haven for their grou
 So the Sister agreed, signed the papers and got an abandoned run down amusement park in a city by the sea. They want to create a permanent Freak Show and make a living in this town. The group has put up the main tent in the park and are staying at the camping site near by. The Sisters had to sell their caravans to get money to start renovating the park and the buildings in the park are not yet fit for living.
 
 
-## What happens during the LARP?
+## What happens during the larp?
 
 Tomorrow it will be Midsummer’s Eve. The town folk will be drunk and celebrating. Tomorrow you will have to have your premiere show in this town to complete the deal the Sisters made with the Beautiful Man. The Sisters say town’s folk will be in a more accepting mood and it’ll be a great success. But there is that very old story told among the circus folk that if you perform during Midsummer the devil will come to the show. The Sisters say it is nothing but a fairytale. Also, you urgently need more money to buy materials for the renovations. You can’t stay at the campsite for too long. You can already feel the hate building in the stares of the normals sharing that space with you.
 
@@ -56,7 +56,7 @@ But you keep practicing your acts, you keep working, that’s what you do to sur
 
 ## The World
 
-The world of our LARP is a harsh one, but it is increasingly not unlike our own.  The cities of Europe are decaying - times are bad for everyone, not just the freaks. Maybe there are pockets of wealth, but in general things have stopped being shiny a long time ago. Slums everywhere. Freaks are just the lowest of the low.  No one cares about them other than as a form of cathartic entertainment; folks pass by and think “at least we’re not like them.”
+The world of our larp is a harsh one, but it is increasingly not unlike our own.  The cities of Europe are decaying - times are bad for everyone, not just the freaks. Maybe there are pockets of wealth, but in general things have stopped being shiny a long time ago. Slums everywhere. Freaks are just the lowest of the low.  No one cares about them other than as a form of cathartic entertainment; folks pass by and think “at least we’re not like them.”
 
 <img  class="image fit" src="assets/images/slum.jpg" alt=""/>
 

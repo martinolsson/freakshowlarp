@@ -20,7 +20,7 @@ But the time of traveling carnivals, circuses, sideshows and freaks shows is alr
 ***
 
 
-Our LARP starts with a bunch of freaks and circus folk, a bunch of mixed souls all in hock to The Devil.  They could find a place here, somewhere to call home.  A stable base from which to grow and operate.  A way back into a society that hates the outsider almost as much as it hates itself.  But with any deal with the Devil, the price is always too high and the deal you get is not the one you thought you made.
+Our larp starts with a bunch of freaks and circus folk, a bunch of mixed souls all in hock to The Devil.  They could find a place here, somewhere to call home.  A stable base from which to grow and operate.  A way back into a society that hates the outsider almost as much as it hates itself.  But with any deal with the Devil, the price is always too high and the deal you get is not the one you thought you made.
 
 
 And so the circus has a home.  A chance.  A hint of hope.  But half the living souls in the circus belong to The Devil now, and at Halloween he’s coming to take payment…

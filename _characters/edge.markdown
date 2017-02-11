@@ -1,7 +1,7 @@
 ---
 title: Edge
 role: Assistant
-affinity: Freaks
+affinity: Circus
 description: You were once a champion knife thrower. The best. One day, when performing
   your blindfolded knife throwing act, you missed and killed her instantly. You lost
   your nerve and developed a stutter and tremors. Circus is all that you've known,
@@ -12,4 +12,3 @@ description: You were once a champion knife thrower. The best. One day, when per
 requirements: ability to mimic or a real stutter
 layout: page
 ---
-
