@@ -1,6 +1,6 @@
 ---
 title: Roman, the Great White
-position: 31
+position: 32
 role: Strongman/woman
 affinity: Freaks
 description: You are mighty, so mighty that the seas could not hold you. The beings

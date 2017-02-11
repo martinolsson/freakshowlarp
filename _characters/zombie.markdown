@@ -1,6 +1,6 @@
 ---
 title: Zombie
-position: 40
+position: 41
 role: Undead
 affinity: Freaks
 description: Your skin is dead to touch, you have never felt a thing. Still your soul

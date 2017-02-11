@@ -1,6 +1,6 @@
 ---
 title: Janus
-position: 14
+position: 15
 role: Medium, you speak to the dead
 affinity: Freaks
 description: There is a huge scar where your sister used to be, but you never lost

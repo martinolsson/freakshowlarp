@@ -1,6 +1,6 @@
 ---
 title: El Scirocco the Flatulist
-position: 20
+position: 21
 role: Flatulist and make up artist
 affinity: Circus
 description: You are a very serious artist and you don’t understand why they always
