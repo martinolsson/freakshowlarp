@@ -1,5 +1,5 @@
 ---
-title: Illmarinen
+title: Ilmarinen
 affinity: Circus
 role: Handyman and effects specialist
 description: People die but machines are forever. Machines can be fixed, and with
@@ -11,4 +11,3 @@ description: People die but machines are forever. Machines can be fixed, and wit
 layout: page
 image: assets/images/characters/ilmarinen.jpg
 ---
-

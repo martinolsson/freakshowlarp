@@ -37,7 +37,7 @@ Read through the roles listed here. When you've chosen one or more roles you lik
                                 <img src="{{ site.baseurl }}/{{ character.image }}" alt="" />
                             </div>
                         {% endif %}
-                        
+
                         <div class="name">{{ character.title }}</div>
                         <div class="role">{{ character.role }}</div>
 
@@ -48,9 +48,6 @@ Read through the roles listed here. When you've chosen one or more roles you lik
                         {% if character.applications != empty and character.applications != nil %}
                             <div class="applications"><strong>Current applications:</strong> {{ character.applications }}</div>
                         {% endif %}
-                        <center>
-                            <a href="/apply.html" class="button small">Apply for this role</a>
-                        </center>
                     </li>
                 {% endfor %}
             </ul>
@@ -80,8 +77,6 @@ Read through the roles listed here. When you've chosen one or more roles you lik
                         <div class="name">{{ character.title }}</div>
                         <div class="role">{{ character.role }}</div>
 
-
-
                         <div class="description">
                             {{ character.description }}
                         </div>
@@ -91,9 +86,6 @@ Read through the roles listed here. When you've chosen one or more roles you lik
                         {% if character.applications != empty and character.applications != nil %}
                             <div class="applications"><strong>Current applications:</strong> {{ character.applications }}</div>
                         {% endif %}
-                        <center>
-                            <a href="/apply.html" class="button small">Apply for this role</a>
-                        </center>
                     </li>
                 {% endfor %}
             </ul>

@@ -1,5 +1,5 @@
 ---
-title: Yan
+title: Yang
 role: Clown
 affinity: Circus
 description: You remember a time when being a clown was everything, but that was long
@@ -8,6 +8,5 @@ description: You remember a time when being a clown was everything, but that was
   make things and make people happy. Maybe your time here is finished. Who can bear
   a clown losing their smile? It’s better to go away than do that to all the others.
 layout: page
-image: assets/images/characters/yan.jpg
+image: assets/images/characters/yang.jpg
 ---
-
