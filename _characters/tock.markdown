@@ -1,6 +1,6 @@
 ---
 title: Tock
-position: 37
+position: 38
 role: Assistant to Tick
 affinity: Freaks
 description: Love draws you like a moth to flame. You watch lovers closely with the

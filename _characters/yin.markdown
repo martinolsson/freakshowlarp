@@ -1,6 +1,6 @@
 ---
 title: Yin
-position: 39
+position: 10
 role: Clown
 affinity: Circus
 description: You were born to be a clown. Your grandparent's grandparents were clowns.
