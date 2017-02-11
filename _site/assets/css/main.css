@@ -1410,10 +1410,6 @@ section.special, article.special {
   text-align: center; }
 
 header.major {
-  width: -moz-max-content;
-  width: -webkit-max-content;
-  width: -ms-max-content;
-  width: max-content;
   margin-bottom: 1.5em; }
   header.major > :first-child {
     margin-bottom: 0;
@@ -2285,38 +2281,23 @@ ul.characters {
       text-align: center; }
     ul.characters li .requirements > strong {
       text-decoration: underline; }
-    ul.characters li .image {
-      position: relative;
-      width: 175px;
-      height: 175px;
-      float: left;
-      margin: 0 1.5em 1.5em -_size(element-margin); }
-      ul.characters li .image > img {
-        top: 0;
-        left: 0;
-        position: absolute;
-        height: 175px;
-        width: 175px;
-        transition: all 1s ease;
-        border-radius: 100px; }
-      ul.characters li .image:hover > img {
-        height: 250px;
-        width: 250px;
-        border-radius: 125px;
-        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6); }
-      ul.characters li .image.right {
-        float: right;
-        margin: 0 -_size(element-margin) 1.5em 1.5em; }
-        ul.characters li .image.right > img {
-          top: 0;
-          left: auto;
-          right: 0; }
+    ul.characters li .image > img {
+      border-radius: 100%; }
     ul.characters li .button {
       margin-top: .5em 0 4em 0;
       opacity: 0;
       transition: all 1s ease; }
     ul.characters li:hover .button {
       opacity: 1; }
+  @media screen and (max-width: 736px) {
+    ul.characters li .image, ul.characters li .image.left, ul.characters li .image.right {
+      float: none !important;
+      display: block;
+      clear: both;
+      margin: 5em auto 1.25em auto;
+      max-width: 66%; }
+    ul.characters li .button {
+      opacity: 1; } }
 
 .application-form {
   width: 80vw;

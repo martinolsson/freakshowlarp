@@ -31,42 +31,11 @@ ul.characters {
             }
         }
         .image {
-            position: relative;
-            width: 175px;
-            height: 175px;
-
-            float: left;
-            margin: 0 _size(element-margin) _size(element-margin) -_size(element-margin);
             > img {
-                top: 0;
-                left: 0;
-                position: absolute;
-                height: 175px;
-                width: 175px;
-                transition: all 1s ease;
-                border-radius: 100px;
+                border-radius: 100%;
             }
-
-            &:hover  {
-                > img {
-                    height: 250px;
-                    width: 250px;
-                    border-radius: 125px;
-                    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
-                }
-            }
-
-            &.right {
-                float: right;
-                margin: 0 -_size(element-margin) _size(element-margin) _size(element-margin);
-                > img {
-                    top: 0;
-                    left: auto;
-                    right: 0;
-                }
-            }
-
         }
+
         .button {
             margin-top: .5em 0 4em 0;
             opacity: 0;
@@ -81,7 +50,27 @@ ul.characters {
 
 
         }
+
     }
+
+    @include breakpoint(small) {
+        li {
+            .image, .image.left, .image.right {
+                float: none !important;
+                display: block;
+                clear: both;
+                margin: 5em auto 1.25em auto;
+                max-width: 66%;
+            }
+
+            .button {
+                opacity: 1;
+            }
+
+        }
+    }
+
+
 }
 
 .application-form {
