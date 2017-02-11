@@ -14,15 +14,12 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.pages %}
-		    {% if page.layout != "home" %}
+		<li><a href="/">Home</a>
+		{% assign pages = site.pages | sort: "position"  %}
+		{% for page in pages %}
+			{% if page.show-in-nav == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
+			{% endif %}
 		{% endfor %}
 	</ul>
 </nav>

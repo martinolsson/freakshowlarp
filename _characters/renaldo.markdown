@@ -1,6 +1,6 @@
 ---
 title: Renaldo/Renata the All Seeing
-role: Priest
+role: Fortune teller
 affinity: Circus
 description: You are a crook. Nothing you "foretell" has any real chance of coming
   true or being reflected in facts. You simply used the opportunity and snuck into
@@ -12,4 +12,3 @@ description: You are a crook. Nothing you "foretell" has any real chance of comi
 requirements: Arabic exotic clothing, crystal ball, astrology charts
 layout: page
 ---
-

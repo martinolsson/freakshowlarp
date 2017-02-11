@@ -10,5 +10,5 @@ description: You were born different and your sister saved you from your mother.
 requirements: Prop for some kind of visible deformity, the character is a woman
 layout: page
 image: assets/images/characters/little-sister.jpg
+position: 1
 ---
-

@@ -10,5 +10,5 @@ description: When your mother tried to kill your little sister at birth, you too
 requirements: Playing a leader. Around 40 years of age.
 layout: page
 image: assets/images/characters/big-sister.jpg
+position: 1
 ---
-
