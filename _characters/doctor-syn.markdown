@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
-affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+title: Doctor Syn
+role: Doctor
+affinity: Circus
+description:  Seven years of medical school and a lots of debts. Sure you could leave this mouldy place, but you’ve got nothing to go back to. If you tried to practice medicine they’d throw you in jail. You try to look after these people though. Some of them are sick. When you are not trying to pull together enough money for some medicines you are still practicing your healers art, and one of the people in the show has stolen your heart. It is amazing how one small mistake can change the course of your life; but maybe it has changed for the better.
+requirements: Tools of your profession
 layout: page
-order: 10
 ---
-

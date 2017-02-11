@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
-affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+title: The Great... (choose your name)
+role: Storyteller/comedian/presenter
+affinity: Circus
+description: All you have is words. Words to make people laugh, cry, dream. You were a silent child, always in the corner. One day, all of a sudden, words you couldn’t stop poured out. People were amazed. You discovered that you have power. In these years you have told a thousand stories and played a thousand characters. Sometimes you get confused. Is this the reality or just another story? Are you real or just one of your characters?
+requirements: ability and desire to speak in public
 layout: page
-order: 10
 ---
-

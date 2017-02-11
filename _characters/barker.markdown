@@ -1,18 +1,7 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
-affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+title: Barker
+role: Animal keeper
+affinity: Circus
+description: All you ever wanted was a puppy to call your own. One followed you home from school once, but your uncle drowned it in the canal. So you ran away and joined the circus. Animals love you, they do what you want them to. But they keep dying. Right now you have no animals, so no act, and the circus folk look at you like it is your fault. The Freaks, well they are more complex than your animals, but some of them are almost as helpless; after all, you are only complete when you have something to look after.
 layout: page
-order: 10
 ---
-

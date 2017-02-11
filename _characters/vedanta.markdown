@@ -1,18 +1,9 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
-affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
+title: Vedanta the Voice
+role: Ventriloquist
+affinity: Circus
+description: You were mute, and they put you in the school for defective children; they forced you to speak, but found your true voice on stage with the freaks. You’ve had many puppets but it all changed when you found Caspian who is witty and clever on stage and dares to say things that you do not. Lately Caspian has been very rude and has been telling you that you are worthless without him and have nothing to say for yourself anymore. Maybe you should just let Caspian speak for you all the time? After all the puppet is just you, right?
+requirements: Ventriloquist doll, knack for dual personalities
   teeth.
 layout: page
-order: 10
 ---
-

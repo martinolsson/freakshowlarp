@@ -1,12 +1,7 @@
 ---
 title: Atlas
-role: Cleaner
+role: Janitor
 affinity: Circus
-description: You were the best strong man of them all, but hurt your back years ago
-  and couldn’t perform anymore. Still, you never could leave the circus, you couldn’t
-  marry a woman and live a lie. Now you are the cleaner and keep everything tidy.
-  You may be outcasts, but you’re not living like pigs. You also tend to take care
-  of the young and lost ones, who remind you of yourself when you were younger.
+description: You were the strongest of the strong, but then you broke your back. Even weak and crippled, you never left the show. You couldn’t marry and live a lie. Now you are the janitor and keep everything tidy. You may be outcasts, but you are not  pigs. You also take care of the young and lost ones, who remind you of yourself when you were younger. But sometimes, when the night falls, you feel regret.
 layout: page
 ---
-

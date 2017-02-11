@@ -1,18 +1,10 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
-affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
+title: Juliet
+role: Janitor and stagehand
+affinity: Circus
+description: Things at home were getting more dangerous, the beatings were getting worse;. You needed an escape and you met him at the Freak Show. He was so caring and loving despite his looks, unlike anyone you’ve met. You ran away with him and the Freak Show, and with them you are learning who you really are. But now you are pregnant. If it’s a freak like him, you can never leave.
+requirements: Looking like a young woman
   teeth.
 layout: page
-order: 10
----
 
+---

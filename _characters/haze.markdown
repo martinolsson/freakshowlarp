@@ -1,18 +1,7 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
-affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+title: Haze
+role: Hypnotist
+affinity: Circus
+description: You have fasted in the flowering deserts of Oman living only on scent and you have listened to the silence of the gurus in India. At least that’s what you tell them, as you suggestively wave your cheap amulet. They usually play along, but recently it has been turning strange. Maybe it’s true what they say about magic getting stronger in the end times. You sense that this place and time makes your hypnosis deeper and truer, and your desires clearer. You have always needed more, searched for something deeper, that much at least is true.
 layout: page
-order: 10
 ---
-

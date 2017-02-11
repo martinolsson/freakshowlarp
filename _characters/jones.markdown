@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
-affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+title: Ebony or Ivory Jones
+role: Musician
+affinity: Circus
+description: People see these folk are freaks, but you don’t get that; you can’t see them – see. Some folks say that those who can’t see often hear more to compensate. That’s kind of true, but on the whole it is a load of bull. Cataracts turned the world to mist and now you see shapes, outlines. What you hear is the music. There is jazz and syncopation and sometimes what you call “a strange melody.” The circus has this music playing; it comes from the people in it, and they give the world of mist a colour and soul.
+requirements: A musical instrument and skills to play it, being or playing an almost completely blind person
 layout: page
-order: 10
 ---
-

@@ -1,14 +1,7 @@
 ---
-title: Fix
+title: Illmarinen
 affinity: Circus
-role: Handyperson
-description: Anything can be fixed. People are born and die, things don’t. You work
-  with your hands, you know the truth. There is a special connection. “Ordinary people”
-  didn’t understand you. They treat you as a fool, with all your ideas about life
-  and dead. This is the reason why you join the circus. Sometimes you try to explain
-  your believes to people, sometimes you realize how useless it is and prefer being
-  just Fix, the handyperson.
-requirements: being a little bricoleur
+role: Handyman and effects specialist
+description: People die but machines are forever. Machines can be fixed, and with a perfect machine, anything is possible, so you decided to make her anew from metal. One day you will  get her back! They treated you like a fool with all your ideas about life and death so you joined the freak show to pursue your goal. It will be amazing. Sometimes you try to explain what you’re trying to achieve, but again and again you realize how useless it is and just prefer being the handyman.
 layout: page
 ---
-

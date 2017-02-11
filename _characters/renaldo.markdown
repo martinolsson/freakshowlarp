@@ -1,18 +1,9 @@
 ---
-title: Grandpa / Grandma Wolf
+title: Renaldo/Renata the All Seeing
 role: Priest
-affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
+affinity: Circus
+description: You are a crook. Nothing you “foretell” has any real chance of coming true or being reflected in facts. You simply used the opportunity: snuck into the boss’s office and read everybody’s files putting special attention to remembering their dates of birth, or as many as was possible and/or disclosed. And since then you quote various horoscopes to them and walk away with a focused expression. But really, it’s not even worth a handful of ash. Being able to do real magic would be so great, you would do anything to have real powers.
+requirements: Arabic exotic clothing, crystal ball, astrology charts
   teeth.
 layout: page
-order: 10
 ---
-

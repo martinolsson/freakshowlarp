@@ -1,18 +1,9 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
-affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
+title: El Scirocco the Flatulist
+role: Flatulist and make up artist
+affinity: Circus Folk
+description: You are a very serious artist and you don’t understand why they always laugh. Your interpretation of Debussy’s “Clair de Lune” is a thing of fragile and intense beauty. Why don’t they recognise true genius when they hear it? A serious, strange child, you were always an outsider by choice, following your own sense of beauty. You found it in this family of monsters. Your see beauty everywhere, that is your gift. Sometimes you can make the audience see it too, and then they don’t laugh but sense the wonder.
+requirements: No sense of shame (we will provide a soundtrack), some make up tools and skills
   teeth.
 layout: page
-order: 10
 ---
-

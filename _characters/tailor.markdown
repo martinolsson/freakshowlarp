@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
-affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+title: Tailor
+role: Costume Maker
+affinity: Circus
+description: You totally love the unusual; the freaks push all of your buttons and being around them gets you very excited. These desires have become all-encompassing to the extent that you don’t really think about the morality of your desires. Dressing someone is like giving him another life, a new skin. They are your creature. You want to protect them, to keep them close to you. The freaks are the way to gratification and perhaps, who knows, something more? They love you.
+requirements: Tailor gear and some fabrics as props for your profession
 layout: page
-order: 10
 ---
-

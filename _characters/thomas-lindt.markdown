@@ -1,18 +1,10 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
-affinity: Freaks
+title: Thomas Lindt
+role: Odditorium keeper
+affinity: Circus
 image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
+description: You were barely getting by before your wife died at childbirth. Her dwarf body couldn’t handle a normal sized child. You couldn’t give her up, or the income. You had her mummified and carry her around in a box and show her to folks. At night you still talk to her. How can the world be so cruel that the fruit of your love killed her? Is it true that she was an abomination and your love was a sin?
+requirements: a dwarf mummy in a display box, looking like a man
   teeth.
 layout: page
-order: 10
 ---
-

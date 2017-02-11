@@ -1,18 +1,7 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
-affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+title: Yin
+role: Clown
+affinity: Circus
+description: You were born to be a clown: your grandparent’s grandparents were clowns. When you are on stage you are alive. Everybody loves clowns. Your life was just perfect, but you screwed everything. Sooner or later the truth will come out. Waiting for the shit to hit the fan, you tend to be depressive. You drink too much and everyday the problems of a nomadic life become a little harder. But at night, in your dreams, the solution is right before you. You just forget what it is when you wake up. The answer lies with the freak show, you know it in your heart.
 layout: page
-order: 10
 ---
-

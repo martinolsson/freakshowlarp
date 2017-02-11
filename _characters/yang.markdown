@@ -1,18 +1,7 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
-affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+title: Yang
+role: Clown
+affinity: Circus
+description: You remember a time when being a clown was everything, but that was long ago. Clowning is a hard job. Having ideas, doing shows, making people laugh. It’s tiring. But you are a sunny person. You love to spend time with people, stay together, make things and make people happy. Maybe your time here is finished. Who can bear a clown losing their smile? It’s better to go away than do that to all the others.
 layout: page
-order: 10
 ---
-
