@@ -1,6 +1,6 @@
 ---
 title: The Queen of Lemuria
-position: 44
+position: 43
 role: The Bearded Lady
 affinity: Freaks
 description: You come from the long lost land of Lemuria, where the woman with the
