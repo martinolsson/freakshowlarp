@@ -1,6 +1,6 @@
 ---
 title: Scales
-position: 41
+position: 40
 role: Singer
 affinity: Freaks
 description: You were caught in the nets in the Caribbean Sea. You have been owned
