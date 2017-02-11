@@ -1,6 +1,6 @@
 ---
 title: Grandpa / Grandma Wolf
-position: 23
+position: 24
 role: Priest
 affinity: Freaks
 image: assets/images/characters/wolf.jpg

@@ -1,6 +1,6 @@
 ---
 title: Birdie
-position: 20
+position: 21
 affinity: Freaks
 role: Drug Dealer
 description: Your body is covered with feathers. Wearing clothes is difficult and
