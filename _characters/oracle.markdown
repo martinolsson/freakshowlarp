@@ -11,3 +11,4 @@ requirements: Doing future readings for the freaks, tarot cards
 layout: page
 image: assets/images/characters/oracle.jpg
 ---
+

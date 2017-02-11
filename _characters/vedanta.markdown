@@ -13,3 +13,4 @@ requirements: Ventriloquist doll, knack for dual personalities teeth.
 layout: page
 image: assets/images/characters/vedanta.jpg
 ---
+

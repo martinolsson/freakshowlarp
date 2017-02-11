@@ -12,3 +12,4 @@ description: All you ever wanted was a puppy to call your own. One followed you 
 layout: page
 image: assets/images/characters/barker.jpg
 ---
+

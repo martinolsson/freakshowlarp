@@ -11,3 +11,4 @@ requirements: a dwarf mummy in a display box, looking like a man
 layout: page
 image: assets/images/characters/thomas-lindt.jpg
 ---
+

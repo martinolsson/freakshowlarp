@@ -12,3 +12,4 @@ requirements: having a stage act, prop for a gender unclear aspect
 layout: page
 image: assets/images/characters/vic.jpg
 ---
+

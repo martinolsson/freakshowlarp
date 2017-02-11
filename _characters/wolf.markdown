@@ -2,7 +2,7 @@
 title: Grandpa / Grandma Wolf
 role: Priest
 affinity: Freaks
-image: assets/images/wolf_small.jpg
+image: assets/images/characters/wolf.jpg
 description: The Lord moves in the most mysterious of ways. The child with the face
   of a wolf who nobody wanted was taken in and raised by the Catholic church far to
   the South. How could you repay their kindness but to take a vocation and enter the
@@ -12,5 +12,5 @@ description: The Lord moves in the most mysterious of ways. The child with the f
 requirements: Much facial hair, a dog like prosthetic and/or pronounced, wolf-like
   canine teeth.
 layout: page
-image: assets/images/characters/wolf.jpg
 ---
+

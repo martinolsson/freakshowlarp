@@ -13,3 +13,4 @@ requirements: A musical instrument and skills to play it
 image: assets/images/characters/guts-malone.jpg
 layout: page
 ---
+
