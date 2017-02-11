@@ -1,5 +1,6 @@
 ---
 title: Atlas
+position: 5
 role: Janitor
 affinity: Circus
 description: You were the strongest of the strong, but then you broke your back. Even

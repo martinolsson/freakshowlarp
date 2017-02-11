@@ -1,5 +1,6 @@
 ---
 title: Vedanta the Voice
+position: 38
 role: Ventriloquist
 affinity: Circus
 description: You were mute, and they put you in the school for defective children;

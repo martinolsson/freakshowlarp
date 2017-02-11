@@ -1,5 +1,6 @@
 ---
 title: Chester
+position: 2
 role: Accountant
 affinity: Circus
 description: You thought there was an opportunity here. Who doesn’t love freaks? The

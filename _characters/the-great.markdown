@@ -1,5 +1,6 @@
 ---
 title: The Great... (choose your name)
+position: 3
 role: Storyteller/comedian/presenter
 affinity: Circus
 description: All you have is words. Words to make people laugh, cry, dream. You were

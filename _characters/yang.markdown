@@ -1,5 +1,6 @@
 ---
 title: Yang
+position: 45
 role: Clown
 affinity: Circus
 description: You remember a time when being a clown was everything, but that was long
