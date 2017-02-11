@@ -1,6 +1,6 @@
 ---
 title: The Great Marvo
-position: 18
+position: 19
 affinity: Circus
 role: Snake Oil Seller
 description: You could sell snow to the penguins, but it ain’t worth it. Those little

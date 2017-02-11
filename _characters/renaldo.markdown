@@ -1,6 +1,6 @@
 ---
 title: Renaldo/Renata the All Seeing
-position: 31
+position: 32
 role: Fortune teller
 affinity: Circus
 description: You are a crook. Nothing you "foretell" has any real chance of coming

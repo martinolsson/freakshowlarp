@@ -1,6 +1,6 @@
 ---
 title: Barker
-position: 22
+position: 23
 role: Animal keeper
 affinity: Circus
 description: All you ever wanted was a puppy to call your own. One followed you home
