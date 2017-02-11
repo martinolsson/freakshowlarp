@@ -1,6 +1,6 @@
 ---
 title: Spider
-position: 40
+position: 27
 role: Conjoined twin
 affinity: Freaks
 description: You are fascinated by the macabre and gothic. Your interests include
