@@ -1,5 +1,6 @@
 ---
 title: Mabel
+position: 28
 role: Conjoined twin
 affinity: Freaks
 description: Education is everything; you are an avid reader and a teacher. You take

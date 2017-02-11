@@ -1,5 +1,6 @@
 ---
 title: Tailor
+position: 7
 role: Costume Maker
 affinity: Circus
 description: You totally love the unusual; the freaks push all of your buttons and

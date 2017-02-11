@@ -1,5 +1,6 @@
 ---
 title: Ilmarinen
+position: 4
 affinity: Circus
 role: Handyman and effects specialist
 description: People die but machines are forever. Machines can be fixed, and with

@@ -1,5 +1,6 @@
 ---
 title: Needles
+position: 27
 role: Tattooed person
 affinity: Freaks
 description: It's was a passion, getting inked. The pictures on your skin melded into

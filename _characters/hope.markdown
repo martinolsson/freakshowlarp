@@ -1,5 +1,6 @@
 ---
 title: Hope
+position: 1
 affinity: Circus
 role: Rebel teenager, stagehand
 description: Little Sister is your mother but you consider both of the  sisters to

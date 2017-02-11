@@ -1,5 +1,6 @@
 ---
 title: Juliet
+position: 6
 role: Janitor and stagehand
 affinity: Circus
 description: Things at home were getting more dangerous, the beatings were getting

@@ -1,5 +1,6 @@
 ---
 title: O’Harah
+position: 15
 role: Musician
 affinity: Circus
 description: There is no instrument like it you know. That thing you have spent your

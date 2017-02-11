@@ -1,5 +1,6 @@
 ---
 title: Edge
+position: 8
 role: Assistant
 affinity: Circus
 description: You were once a champion knife thrower. The best. One day, when performing

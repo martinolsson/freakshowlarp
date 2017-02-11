@@ -1,5 +1,6 @@
 ---
 title: Guts Malone
+position: 14
 role: Musician
 affinity: Circus
 description: The road to rock and roll is the road to ruin. It was fun for a while.

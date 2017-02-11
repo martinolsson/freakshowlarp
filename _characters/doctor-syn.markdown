@@ -1,5 +1,6 @@
 ---
 title: Doctor Syn
+position: 9
 role: Doctor
 affinity: Circus
 description: Seven years of medical school and a lots of debts. Sure you could leave
