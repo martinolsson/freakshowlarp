@@ -1,6 +1,6 @@
 ---
 title: Claw
-position: 25
+position: 26
 role: Performer
 affinity: Freaks
 description: You should count yourself among the lucky. It could have been your best
