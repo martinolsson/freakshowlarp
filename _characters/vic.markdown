@@ -1,6 +1,6 @@
 ---
 title: Vic
-position: 32
+position: 33
 affinity: Freaks
 role: Hermaphrodite, performer
 description: Choosing is overrated. Black and white distinctions are for limited people.

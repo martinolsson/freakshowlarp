@@ -1,6 +1,6 @@
 ---
 title: Snow White
-position: 40
+position: 41
 role: Albino
 affinity: Freaks
 description: Sun can kill you. Since your birth you’ve preferred to stay in a corner,

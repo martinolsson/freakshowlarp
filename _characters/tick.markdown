@@ -1,6 +1,6 @@
 ---
 title: Tick
-position: 42
+position: 28
 role: Performer
 affinity: Freaks
 description: You sold your heart to the demon Belial for immortality. He tore it out
