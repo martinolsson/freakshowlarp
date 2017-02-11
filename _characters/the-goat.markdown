@@ -1,6 +1,6 @@
 ---
 title: The Goat
-position: 40
+position: 41
 role: Performer
 affinity: Freaks
 description: You are lost amongst the sea of cities, the vineyards you no longer can
