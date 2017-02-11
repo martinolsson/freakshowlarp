@@ -1,10 +1,10 @@
 ---
 title: Vision
 position: 1
-description: Why we want to create Freak Show with you
+description: What is Freak Show all about?
 layout: page
 show-in-nav: true
-image: assets/images/curtains_small.jpg
+image: assets/images/vision.jpg
 order: 1
 ---
 
@@ -17,7 +17,7 @@ order: 1
 <div class="row">
 <div class="8u 12u$(small)" markdown="1">
 
-The Freak Show is a Nordic style LARP and a co-created art piece. It tells the story of the last days of a  freak show and explores the theme of otherness, being an outcast in a society far more hating and violent than ours. The story is a dark one, but there will also be compassion, hope and love. In this story, the freaks stand together.
+The Freak Show is a Nordic style LARP and a co-created art piece. It tells the story of the last days of a freak show and explores the theme of otherness, being an outcast in a society far more hating and violent than ours. The story is a dark one, but there will also be compassion, hope and love. In this story, the freaks stand together.
 {:.lead}
 
 The site of the event is an abandoned amusement park and a nearby campsite. The amusement park is an un-place that is perfect for the romantic gothic horror mood of the piece. There will be no jump scares or dramatic effects, but the Freak Show has subtle hints of the supernatural that we hope will create a sensation of slow, creeping horror.  

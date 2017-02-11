@@ -13,7 +13,7 @@
     	{% endfor %}
     {% endif %}
     {% if site.tiles-source == 'pages' %}
-        {% assign pages = site.pages | sort:"order"  %}
+        {% assign pages = site.pages | sort: "position"  %}
 	    {% for page in pages limit:site.tiles-count %}
             {% if page.show-in-nav == true %}
                 <article>

@@ -4,7 +4,7 @@ position: 4
 layout: page
 description: All you need to know to take part
 landing-title: Practical details about the LARP
-image: assets/images/Location2_small.jpg
+image: assets/images/practical.jpg
 show-in-nav: true
 order: 4
 ---
@@ -84,7 +84,7 @@ There will be bunk beds in 4 person camping cabins. The sleeping places will be 
 </div>
 
 ### Showers and toilets
-At the camping site showers, toilets and kitchens are in separate buildings. There is a wheelchair friendly toilet. The showers have space but are not fully accessible. 
+At the camping site showers, toilets and kitchens are in separate buildings. There is a wheelchair friendly toilet. The showers have space but are not fully accessible.
 
 At the amusement park we have toilets and water in the old worker’s locker rooms but these have a staircase and are not accessible. We will get a portable wheelchair friendly toilet to the park if needed.
 

@@ -2,9 +2,10 @@
 title: About us
 position: 6
 layout: page
-description: Who we are and how to get in touch with us
+description: Who are we and how to get in touch
 landing-title: The Organisers
 show-in-nav: true
+image: assets/images/aboutus.jpg
 order: 6
 ---
 

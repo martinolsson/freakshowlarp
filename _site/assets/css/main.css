@@ -2548,8 +2548,7 @@ ul.characters {
   -webkit-align-items: center;
   -ms-align-items: center;
   align-items: center;
-  background-image: url("../../assets/images/banner.jpg");
-  background-image: url("../../assets/images/barnum-bailey-lo.jpg");
+  background-image: url("../../assets/images/header.jpg");
   display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;
@@ -2585,7 +2584,7 @@ ul.characters {
     display: block;
     height: 100%;
     left: 0;
-    opacity: 0.9;
+    opacity: 0.7;
     position: absolute;
     top: 0;
     width: 100%;
@@ -2606,8 +2605,8 @@ ul.characters {
       width: auto; }
       #banner > .inner header .logo {
         display: block;
-        width: 60% !important;
-        margin: 0 auto 4em auto; }
+        width: 100% !important;
+        margin: 2em auto; }
       #banner > .inner header > :first-child {
         width: auto; }
         #banner > .inner header > :first-child:after {

@@ -4,7 +4,7 @@ position: 5
 layout: page
 description: How to become a Freak
 landing-title: So you want to Join the Freak Show?
-image: assets/images/Location_small.jpg
+image: assets/images/signup.jpg
 show-in-nav: true
 order: 5
 ---

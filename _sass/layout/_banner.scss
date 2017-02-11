@@ -8,9 +8,9 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../../assets/images/banner.jpg")');
+		@include vendor('background-image', 'url("../../assets/images/header.jpg")');
 		//@include vendor('background-image', 'url("../../assets/images/curtains-large.png")');
-		@include vendor('background-image', 'url("../../assets/images/barnum-bailey-lo.jpg")');
+		//@include vendor('background-image', 'url("../../assets/images/barnum-bailey-lo.jpg")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
@@ -35,7 +35,7 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.9;
+			opacity: 0.7;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -65,8 +65,8 @@
 				width: auto;
 				.logo {
 					display: block;
-					width: 60% !important;
-					margin: 0 auto 4em auto;
+					width: 100% !important;
+					margin: 2em auto;
 
 				}
 

@@ -1,12 +1,12 @@
 ---
-title: Characters & Groups
+title: Characters
 position: 3
 layout: page
 description: The full cast. What kind of freak are you?
 landing-title: Who is Who in The Freak Show
 show-in-nav: true
 order: 3
-image: assets/images/indian-albino-family-crop.jpg
+image: assets/images/barnum-bailey-lo.jpg
 ---
 
 You are in the Freak Show because you have no other option. Even if you're not visibly different, there is something that sets you aside from normal society. Maybe you made yourself different on the outside too even though you weren’t like that to start with.
