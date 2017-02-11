@@ -1,6 +1,6 @@
 ---
 title: Haze
-position: 23
+position: 24
 role: Hypnotist
 affinity: Circus
 description: You have fasted in the flowering deserts of Oman living only on scent

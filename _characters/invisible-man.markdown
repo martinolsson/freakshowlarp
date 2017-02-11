@@ -1,6 +1,6 @@
 ---
 title: The Invisible Person
-position: 43
+position: 44
 role: stagehand, ex-performer
 affinity: Freaks
 description: After the incident you haven’t been able turn invisible. You can do it

@@ -1,6 +1,6 @@
 ---
 title: Thomas Lindt
-position: 37
+position: 38
 role: Odditorium keeper
 affinity: Circus
 description: You were barely getting by before your wife died at childbirth. Her dwarf

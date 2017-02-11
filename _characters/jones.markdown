@@ -1,6 +1,6 @@
 ---
 title: Ebony or Ivory Jones
-position: 24
+position: 25
 role: Musician
 affinity: Circus
 description: People see these folk are freaks, but you don’t get that; you can’t see

@@ -1,6 +1,6 @@
 ---
 title: Mäkrä
-position: 27
+position: 28
 role: Witch
 affinity: Freaks
 description: Speaking and taming the nature, the force that runs through all, courses
