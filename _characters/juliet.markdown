@@ -9,5 +9,5 @@ description: Things at home were getting more dangerous, the beatings were getti
   pregnant. If it’s a freak like him, you can never leave.
 requirements: Looking like a young woman teeth.
 layout: page
+image: assets/images/characters/juliet.jpg
 ---
-

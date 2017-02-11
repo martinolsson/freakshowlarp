@@ -9,5 +9,5 @@ description: People die but machines are forever. Machines can be fixed, and wit
   amazing. Sometimes you try to explain what you’re trying to achieve, but again and
   again you realize how useless it is and just prefer being the handyman.
 layout: page
+image: assets/images/characters/ilmarinen.jpg
 ---
-

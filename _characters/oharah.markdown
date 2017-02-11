@@ -11,5 +11,5 @@ description: There is no instrument like it you know. That thing you have spent 
   it for you.
 requirements: A musical instrument and skills to play it
 layout: page
+image: assets/images/characters/oharah.jpg
 ---
-

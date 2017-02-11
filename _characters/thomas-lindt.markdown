@@ -9,5 +9,5 @@ description: You were barely getting by before your wife died at childbirth. Her
   killed her? Is it true that she was an abomination and your love was a sin?
 requirements: a dwarf mummy in a display box, looking like a man
 layout: page
+image: assets/images/characters/thomas-lindt.jpg
 ---
-

@@ -10,5 +10,5 @@ description: It's was a passion, getting inked. The pictures on your skin melded
   wield a subtle knife and with it you can change the world.
 requirements: Lots of tattoos including facial tattoos and other body modifications
 layout: page
+image: assets/images/characters/needles.jpg
 ---
-

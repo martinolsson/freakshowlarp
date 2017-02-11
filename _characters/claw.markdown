@@ -10,5 +10,5 @@ description: You should count yourself among the lucky. It could have been your 
   is your best bet. You cannot be whole until that dreaded thing is gone.
 requirements: lobster claw hand prop, having a stage act
 layout: page
+image: assets/images/characters/claw.jpg
 ---
-

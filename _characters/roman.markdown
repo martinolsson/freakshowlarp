@@ -10,5 +10,5 @@ description: You are mighty, so mighty that the seas could not hold you. The bei
 requirements: grey make-up, pointy teeth, fake gills for the stage, having a stage
   act
 layout: page
+image: assets/images/characters/roman.jpg
 ---
-

@@ -9,5 +9,5 @@ description: You were born different and your sister saved you from your mother.
   child passes as normal, they could leave the circus and choose a better life.
 requirements: Prop for some kind of visible deformity, the character is a woman
 layout: page
+image: assets/images/characters/little-sister.jpg
 ---
-

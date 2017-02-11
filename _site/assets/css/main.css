@@ -2300,9 +2300,9 @@ ul.characters {
         transition: all 1s ease;
         border-radius: 100px; }
       ul.characters li .image:hover > img {
-        height: 200px;
-        width: 200px;
-        border-radius: 100px;
+        height: 250px;
+        width: 250px;
+        border-radius: 125px;
         box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6); }
       ul.characters li .image.right {
         float: right;

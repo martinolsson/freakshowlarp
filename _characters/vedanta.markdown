@@ -11,5 +11,5 @@ description: You were mute, and they put you in the school for defective childre
   time? After all the puppet is just you, right?
 requirements: Ventriloquist doll, knack for dual personalities teeth.
 layout: page
+image: assets/images/characters/vedanta.jpg
 ---
-

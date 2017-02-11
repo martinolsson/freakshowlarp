@@ -10,5 +10,5 @@ description: You were caught in the nets in the Caribbean Sea. You have been own
 requirements: scaly skin in some visible parts of the body, having a stage act with
   real or playback singing
 layout: page
+image: assets/images/characters/scales.jpg
 ---
-

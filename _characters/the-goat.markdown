@@ -11,5 +11,5 @@ description: You are lost amongst the sea of cities, the vineyards you no longer
 requirements: Horns, goatee or longer facial hair, a satyr like costume, having a
   stage act
 layout: page
+image: assets/images/characters/the-goat.jpg
 ---
-

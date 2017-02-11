@@ -12,5 +12,5 @@ description: The Lord moves in the most mysterious of ways. The child with the f
 requirements: Much facial hair, a dog like prosthetic and/or pronounced, wolf-like
   canine teeth.
 layout: page
+image: assets/images/characters/wolf.jpg
 ---
-

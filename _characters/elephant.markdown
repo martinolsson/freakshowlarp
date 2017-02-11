@@ -9,5 +9,5 @@ description: You actually have looks that even a mother couldn’t love. You wer
   of poetry, it gives you a way of showing that beauty can be found anywhere.
 requirements: grotesque head prosthesis, poetry books, having a stage act
 layout: page
+image: assets/images/characters/elephant.jpg
 ---
-

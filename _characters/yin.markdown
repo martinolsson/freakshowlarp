@@ -10,5 +10,5 @@ description: You were born to be a clown. Your grandparent's grandparents were c
   the solution is right before you. You just forget what it is when you wake up. The
   answer lies with the freak show, you know it in your heart.
 layout: page
+image: assets/images/characters/yin.jpg
 ---
-

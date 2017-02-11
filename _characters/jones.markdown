@@ -12,5 +12,5 @@ description: People see these folk are freaks, but you don’t get that; you can
 requirements: A musical instrument and skills to play it, being or playing an almost
   completely blind person
 layout: page
+image: assets/images/characters/jones.jpg
 ---
-

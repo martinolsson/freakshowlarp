@@ -10,5 +10,5 @@ description: All you ever wanted was a puppy to call your own. One followed you 
   of them are almost as helpless; after all, you are only complete when you have something
   to look after.
 layout: page
+image: assets/images/characters/barker.jpg
 ---
-

@@ -10,5 +10,5 @@ description: Choosing is overrated. Black and white distinctions are for limited
   live an ordinary life. Always being the rebel is consuming you.
 requirements: having a stage act, prop for a gender unclear aspect
 layout: page
+image: assets/images/characters/vic.jpg
 ---
-

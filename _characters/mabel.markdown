@@ -10,5 +10,5 @@ description: Education is everything; you are an avid reader and a teacher. You 
 requirements: You are joined to Spider at the hip, you will need to play together
   in a harness and shared clothes and perform an act on stage together.
 layout: page
+image: assets/images/characters/mabel.jpg
 ---
-

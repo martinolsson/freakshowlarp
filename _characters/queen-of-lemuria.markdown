@@ -11,5 +11,5 @@ description: You come from the long lost land of Lemuria, where the woman with t
 requirements: Female looking body with a beard, flashy feminine costume, having a
   stage act
 layout: page
+image: assets/images/characters/queen-of-lemuria.jpg
 ---
-

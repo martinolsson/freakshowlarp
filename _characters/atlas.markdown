@@ -8,5 +8,5 @@ description: You were the strongest of the strong, but then you broke your back.
   You also take care of the young and lost ones, who remind you of yourself when you
   were younger. But sometimes, when the night falls, you feel regret.
 layout: page
+image: assets/images/characters/atlas.jpg
 ---
-

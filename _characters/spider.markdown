@@ -11,5 +11,5 @@ description: You are fascinated by the macabre and gothic. Your interests includ
 requirements: You are joined to (Mabel)(#mabel) at the hip, you will need to play
   together in a harness and shared clothes and perform an act on stage together.
 layout: page
+image: assets/images/characters/spider.jpg
 ---
-

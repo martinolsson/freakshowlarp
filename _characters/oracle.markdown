@@ -9,5 +9,5 @@ description: You were born in the Freak Show, a world that has always been very 
   is no escape from the destiny your foretell.
 requirements: Doing future readings for the freaks, tarot cards
 layout: page
+image: assets/images/characters/oracle.jpg
 ---
-

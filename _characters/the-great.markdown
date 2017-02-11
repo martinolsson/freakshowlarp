@@ -10,5 +10,5 @@ description: All you have is words. Words to make people laugh, cry, dream. You 
   one of your characters?
 requirements: ability and desire to speak in public
 layout: page
+image: assets/images/characters/the-great.jpg
 ---
-

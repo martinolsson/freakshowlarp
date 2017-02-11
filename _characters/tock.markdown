@@ -10,5 +10,5 @@ description: Love draws you like a moth to flame. You watch lovers closely with 
 requirements: Ticking that can be heard inside you, a small scar over your heart,
   act on stage with Tick
 layout: page
+image: assets/images/characters/tock.jpg
 ---
-

@@ -9,5 +9,5 @@ description: Little Sister is your mother but you consider both of the  sisters 
   know what it means to be free, so you try to show them. Their hate is just stupidity.
 requirements: Looking like a teenager
 layout: page
+image: assets/images/characters/hope.jpg
 ---
-

@@ -8,5 +8,5 @@ description: You thought there was an opportunity here. Who doesn’t love freak
   you really hate the situation and hated it for a long time. Time is running out
   now, and fast.
 layout: page
+image: assets/images/characters/chester.jpg
 ---
-

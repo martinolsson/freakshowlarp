@@ -10,7 +10,6 @@ description: The road to rock and roll is the road to ruin. It was fun for a whi
   the freak show you’ve got a ready supply of junk. Playing tunes and counting the
   hours down to the next hit.
 requirements: A musical instrument and skills to play it
-image: assets/images/guts_malone_small.jpg
+image: assets/images/characters/guts-malone.jpg
 layout: page
 ---
-

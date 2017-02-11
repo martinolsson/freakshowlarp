@@ -10,5 +10,5 @@ description: You have fasted in the flowering deserts of Oman living only on sce
   hypnosis deeper and truer, and your desires clearer. You have always needed more,
   searched for something deeper, that much at least is true.
 layout: page
+image: assets/images/characters/haze.jpg
 ---
-

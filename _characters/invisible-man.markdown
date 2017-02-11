@@ -8,5 +8,5 @@ description: After the incident you haven’t been able turn invisible. You can 
   it. Sometimes you are so angry, why did this happen to you? You used to draw in
   the crowds, now you could just walk out and start a normal life for God’s sake!
 layout: page
+image: assets/images/characters/invisible-person.jpg
 ---
-

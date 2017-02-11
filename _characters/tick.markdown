@@ -10,5 +10,5 @@ description: You sold your heart to the demon Belial for immortality. He tore it
 requirements: Ticking that can be heard inside you, a huge scar on your chest and
   a box with a heart, act on stage presenting these
 layout: page
+image: assets/images/characters/tick.jpg
 ---
-
