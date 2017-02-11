@@ -8,6 +8,7 @@ image: assets/images/practical.jpg
 show-in-nav: true
 order: 4
 ---
+
 <div class="row">
 <div class="7u 12u$(small)" markdown="1">
 
