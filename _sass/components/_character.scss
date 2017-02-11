@@ -22,33 +22,17 @@ ul.characters {
                 margin: 0 1em;
             }
         }
-        .applications {
-            text-align: center;
-        }
-        .requirements {
+
+        .requirements, .applications {
             > strong {
                 text-decoration: underline;
             }
         }
+
         .image {
             > img {
                 border-radius: 100%;
             }
-        }
-
-        .button {
-            margin-top: .5em 0 4em 0;
-            opacity: 0;
-            transition: all 1s ease;
-
-        }
-
-        &:hover {
-            .button {
-                opacity: 1;
-            }
-
-
         }
 
     }
@@ -62,14 +46,8 @@ ul.characters {
                 margin: 5em auto 1.25em auto;
                 max-width: 66%;
             }
-
-            .button {
-                opacity: 1;
-            }
-
         }
     }
-
 
 }
 
