@@ -1,6 +1,6 @@
 ---
 title: The Paraca
-position: 43
+position: 44
 role: The Last Of The Paracas
 affinity: Freaks
 description: You are the last of your people. Everything from the shape of your head,

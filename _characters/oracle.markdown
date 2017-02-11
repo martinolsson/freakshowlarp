@@ -1,6 +1,6 @@
 ---
 title: The Oracle
-position: 32
+position: 33
 role: Seer, you are gifted
 affinity: Freaks
 description: You were born in the Freak Show, a world that has always been very supportive
