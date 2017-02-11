@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
+title: Ruby or Rocky Ricochet
+role: Burlesque artist
 affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+description: A bit of timeless tease for the boys and girls; a hint of 1950s, a bit of stocking top, red red lips, and eyes that look like infinity. Perhaps some folk have a doubt that you belong with the freaks, but they don’t know you.The freaks do.They know that your eyes are not your own and that the ink on your skin ain’t right. Some people have tattoos of monsters on their skin, but those tattoos are just pictures. Your ink is more than that, the monsters are real.
+requirements: visible tattoos, burlesque act on stage
 layout: page
-order: 10
 ---
-

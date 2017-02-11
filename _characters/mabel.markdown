@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
+title: Mabel
+role: Conjoined twin
 affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+description: Education is everything; you are an avid reader and a teacher. You take pleasure in art and music and fine food and romance. You are a poet, an occasional painter in water colours, and a writer of short plays. With Spider you are as close as twins will ever be and your love is all encompassing.  But you argue and fight terribly sometimes and the fact that you hurt Spider is tearing you apart.
+requirements: You are joined to Spider at the hip, you will need to play together in a harness and shared clothes and perform an act on stage together.
 layout: page
-order: 10
 ---
-

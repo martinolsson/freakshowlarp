@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
+title: The Goat
+role: Performer
 affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+description: You are lost amongst the sea of cities, the vineyards you no longer can find.  Born of the noble faun, you do not fully understand the workings of man. You tell tales of mighty Zeus and of festivals held by Dionysus. You inhale the magic dusts singing of wine and women, or do you just dream? You may guide those in need, but you may also lead them astray. Your home may be gone forever, but your new family you hold dear to you.
+requirements: Horns, goatee or longer facial hair, a satyr like costume, having a stage act
 layout: page
-order: 10
 ---
-

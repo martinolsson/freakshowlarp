@@ -1,15 +1,8 @@
 ---
-title: The Clockwork Person
-role: Performer
+title: Tock
+role: Assistant to Tick
 affinity: Freaks
-description: You sold your heart to the Devil for immortality. The Devil tore it out
-  and replaced it with a clock, but the price was far more. With your heart you lost
-  your passion. You carry your old heart in a box, longing after the feelings it gave
-  you. Every night you count the click clock inside your chest wondering if it’ll
-  ever stop.
-requirements: Ticking that can be heard inside you, a scar on your chest and a box
-  with a heart, act on stage presenting these
-order: 10
+description: Love draws you like a moth to flame. You watch lovers closely with the hope that something might stir in you. Long ago when your lover asked you to join them in eternal life you agreed, but the price was too much. Now you suffer through this eternal punishment and mockery of true love. There has to be a meaning to all this.
+requirements: Ticking that can be heard inside you, a small scar over your heart, act on stage with Tick
 layout: page
 ---
-

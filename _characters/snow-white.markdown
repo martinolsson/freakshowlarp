@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
+title: Snow White
+role: Albino
 affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+description: Sun can kill you. Since your birth you’ve preferred to stay in a corner, observing. Maybe is because hiding and staying protected is vital for you. You learned that hearing is better than speaking, that observing is better than to be observed. Sometimes you speak, you act. But you are the silent sentinel of the freak show. In the tent you expose yourself to the audience to get food for the family, it is the worst thing in the world; the gaze of the audience burns like sunlight.  You do this for the good of the group, to bring in money for the show, but it does you harm.
+requirements: looking like an albino, clothes with a hood
 layout: page
-order: 10
 ---
-

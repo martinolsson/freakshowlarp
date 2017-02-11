@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
+title: Scales
+role: Singer
 affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+description: You were caught in the nets in the Caribbean Sea. You have been owned by circuses and shows, bought and sold for entertainment, always surrounded by glass and with the company of plastic fish and plants. Eventually, they all wanted you to sing. And you sang, driving them all, one by one, to drown themselves. You are happier here. You sing only when you want to. You sing of love, home and deep seas.
+requirements: scaly skin in some visible parts of the body, having a stage act with real or playback singing
 layout: page
-order: 10
 ---
-

@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
+title: Darwin
+role: The missing link
 affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+description: You can read the 23 tome Encyclopedia Britannica in a day and remember about 80% of the content. Your appearance, however, belies the knowledge within as you look like a crossover of an ape and a man. They named you the missing link. You had fingers pointed at you, shunned and ridiculed. You learned a response that was easiest to understand - violence. The problem is that as you get violent, you are starting to forget things. If this carries on you fear you will lose your brains and perhaps you will end up nothing more than an ape?
+requirements: Neanderthal look or prosthetics, having a stage act
 layout: page
-order: 10
 ---
-

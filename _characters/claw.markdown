@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
+title: Claw
+role: Performer
 affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+description: You should count yourself among the lucky. It could have been your best hand, or it could have been both. You smile and wave. Yes, you would like to be able to caress the one you love (who does not love you) and of course life would be better without the ugly, scary hand. So much better. You cry a little and think for the thousandth time of the sharp tools in the shed. Maybe the electric hedge-trimmer is your best bet. You cannot be whole until that dreaded thing is gone.
+requirements: lobster claw hand prop, having a stage act
 layout: page
-order: 10
 ---
-

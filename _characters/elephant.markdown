@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
+title: Elephant man/woman
+role: Performer
 affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+description: You actually have looks that even a mother couldn’t love. You were abandoned and the Sisters bought you from an orphanage. You live in constant pain and don’t appreciate earning a living by turning your sickness into entertainment, but you have no choice. Your true passion and only joy is in the writing and declamation of poetry, it gives you a way of showing that beauty can be found anywhere.
+requirements: grotesque head prosthesis, poetry books, having a stage act
 layout: page
-order: 10
 ---
-

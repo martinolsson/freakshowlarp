@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
+title: Mäkrä
+role: Witch
 affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+description: Speaking and taming the nature, the force that runs through all, courses through you as a birth gift as does the mark on your flesh. Sometimes it’s a joining of bodies, sometimes a plant, sometimes pain in the right spot. You know how to untangle the knots of existing. Your tendencies didn’t fit with the village folk so you ran with the freaks. They appreciate you and come to you for advice.
+requirements: A port-wine stain that is large and clearly visible, items and spells for ritual magic and practising it in game
 layout: page
-order: 10
 ---
-

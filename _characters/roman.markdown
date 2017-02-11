@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
+title: Roman, the Great White
+role: Strongman/woman
 affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+description: You are mighty, so mighty that the seas could not hold you. The beings from the surface are weak, and beneath your gaze, but there are few that you consider to be your peer, and fewer yet that you would call friend. The people outside the circus - the ones who don’t know you  - called you as a bully and braggart, but that’s not it at all. You are just looking out for the weaker ones.
+requirements: grey make-up, pointy teeth, fake gills for the stage, having a stage act
 layout: page
-order: 10
 ---
-

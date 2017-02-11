@@ -1,18 +1,8 @@
 ---
-title: Grandpa / Grandma Wolf
-role: Priest
+title: Needles
+role: Tattooed person
 affinity: Freaks
-image: assets/images/wolf_small.jpg
-description: The Lord moves in the most mysterious of ways. You were abandoned as
-  a baby, feared by everyone in the village.  And so the boy with the face of a wolf
-  who nobody wanted was taken in and raised by the Catholic church far to the South.  How
-  could you repay their kindness but to take a vocation and enter the Church as a
-  priest.  They were never going to give you a parish.  Sent first to Africa and then,
-  after many long years, to the north where you found a flock, found a parish at last,
-  here … in the circus.
-requirements: Much facial hair, dog like prosthetic, or pronounced, wolf-life canine
-  teeth.
+description: It's was a passion, getting inked. The pictures on your skin melded into each other and created new meanings. You felt a constant urge to change your body, but are running out of options; there isn't much of you that hasn't been inked or pierced. Your passion now is for changing who other people are through body modification. Marks, scars, cuttings all leave an impact on the body that was there before. You wield a subtle knife and with it you can change the world.
+requirements: Lots of tattoos including facial tattoos and other body modifications
 layout: page
-order: 10
 ---
-
