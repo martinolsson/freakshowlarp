@@ -10,8 +10,7 @@ description: You were mute, and they put you in the school for defective childre
   and has been telling you that you are worthless without him and have nothing to
   say for yourself anymore. Maybe you should just let Caspian speak for you all the
   time? After all the puppet is just you, right?
-requirements: Ventriloquist doll, knack for dual personalities teeth.
+requirements: Ventriloquist doll, knack for dual personalities.
 layout: page
 image: assets/images/characters/vedanta.jpg
 ---
-
