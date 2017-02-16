@@ -9,8 +9,9 @@ description: You are fascinated by the macabre and gothic. Your interests includ
   possible way. With Mabel you are as close as twins will ever be and your love is
   all encompassing. But you argue and fight terribly sometimes; sometimes you wish
   you were alone.
-requirements: You are joined to Mabel at the hip, you will need to play
-  together in a harness and shared clothes and perform an act on stage together.
+requirements: You are joined to Mabel at the hip, you will need to play together in
+  a harness and shared clothes and perform an act on stage together.
 layout: page
 image: assets/images/characters/spider.jpg
 ---
+
