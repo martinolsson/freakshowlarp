@@ -1,5 +1,5 @@
 ---
-title: The Great... (choose your name)
+title: The Great ... (???)
 position: 3
 role: Storyteller/comedian/presenter
 affinity: Circus
@@ -13,4 +13,3 @@ requirements: ability and desire to speak in public
 layout: page
 image: assets/images/characters/the-great.jpg
 ---
-
