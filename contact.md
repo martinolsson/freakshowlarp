@@ -14,7 +14,7 @@ If you want to get in touch with us for any reason at all, send an email to <a h
 <div class="row">
 <div class="7u 12u$(small)" markdown="1">
 
-### Simon Brind
+## Simon Brind
 
 Simon is a British writer and academic. He has been a larper since 1986 and in that time he has designed and written for all manner of games, larps, and performances. The smallest was for one player, the largest for thousands.
 
@@ -33,7 +33,7 @@ As a larp writer Simon’s primary interest is how to balance the storyteller’
 <div class="row">
 <div class="7u 12u$(small)" markdown="1">
 
-### Dominika Cembala
+## Dominika Cembala
 
 </div>
 <div class="5u 12u$(small)">
@@ -44,7 +44,7 @@ As a larp writer Simon’s primary interest is how to balance the storyteller’
 <div class="row">
 <div class="7u 12u$(small)" markdown="1">
 
-### Alessandro Giovannucci
+## Alessandro Giovannucci
 
 Alessandro is an academic lecturer and larp designer, one of the founders of Chaos League and co-author of Southern Way - New Italian LARP manifesto, as well as organizer of international high-budget games (Black Friday, New Atlantis) and LARP festivals (Play Larp). In the Freak Show he works with writing characters and plot.
 
@@ -57,7 +57,7 @@ Alessandro is an academic lecturer and larp designer, one of the founders of Cha
 <div class="row">
 <div class="7u 12u$(small)" markdown="1">
 
-### Morgan Kollin
+## Morgan Kollin
 
 </div>
 <div class="5u 12u$(small)">
@@ -68,7 +68,7 @@ Alessandro is an academic lecturer and larp designer, one of the founders of Cha
 <div class="row">
 <div class="7u 12u$(small)" markdown="1">
 
-### Martin Olsson
+## Martin Olsson
 
 Martin is from Sweden, and started larping in the early 90s. As an organiser he's been involved in some Swedish classics, such as Det Sista Kapitlet, Hamlet Inifrån, and Skyrmion. Martin has also created larps in professional settings, ranging from team kickoffs to political simulations for thousands of participants.
 
@@ -81,7 +81,7 @@ Martin is from Sweden, and started larping in the early 90s. As an organiser he'
 <div class="row">
 <div class="7u 12u$(small)" markdown="1">
 
-### Nina Teerilahti
+## Nina Teerilahti
 
 Nina is a 37 year old Finnish artist, comic artist, illustrator, graphic designer and a trained producer.
 
