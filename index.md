@@ -3,9 +3,9 @@ title: Home
 position: 0
 layout: home
 landing-title: Welcome to the Freak Show
-description:
-image:
-author:
+description: 
+image: 
+author: 
 ---
 
 ## The Freak Show in Short
