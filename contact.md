@@ -59,6 +59,9 @@ Alessandro is an academic lecturer and larp designer, one of the founders of Cha
 
 ## Morgan Kollin
 
+Hailing from Detroit, Michigan, Morgan has around 21 years of LARPing experience, starting with KANAR in Michigan, then expanding to Chicago, San Diego, Iowa, and Indianapolis.  He has been involved with numerous events and organizations throughout the years and has worked on various systems, including an upcoming Steampunk LARP. Always working on one project or another, Morgan is also the Founder of the Detroit Leather Company and Larp Garb, and hosts Youmacon, one of the 10 largest Anime conventions in North America.
+
+
 </div>
 <div class="5u 12u$(small)">
 <img src="assets/images/morgan.jpg" class="image fit" alt="Morgan Kollin" />
