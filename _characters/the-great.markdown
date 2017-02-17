@@ -13,3 +13,4 @@ requirements: ability and desire to speak in public
 layout: page
 image: assets/images/characters/the-great.jpg
 ---
+
