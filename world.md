@@ -44,21 +44,6 @@ It was two months later, as they ended the worst traveling season in ten years o
 </div>
 
 <div class="row">
-    <div class="3u 12u(small)">
-        <img src="assets/images/circus_folk2.jpg" class="image fit" alt="Albino family"/>
-    </div>
-    <div class="3u 12u(small)">
-        <img src="assets/images/Location2.jpg" class="image fit" alt="Albino family"/>
-    </div>
-    <div class="3u 12u(small)">
-        <img src="assets/images/baby.jpg" class="image fit" alt="Albino family"/>
-    </div>
-    <div class="3u 12u(small)">
-        <img src="assets/images/krop2.jpg" class="image fit" alt="Albino family"/>
-    </div>
-</div>
-
-<div class="row">
 <div class="6u 12u(small)" markdown="1">
 
 ## The World of Freak Show
