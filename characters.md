@@ -38,8 +38,10 @@ Read through the roles listed here. When you've chosen one or more roles you lik
                             </div>
                         {% endif %}
 
-                        <div class="name">{{ character.title }}</div>
-                        <div class="role">{{ character.role }}</div>
+                        <div>
+                            <span class="name">{{ character.title }}</span>
+                            <span class="role">{{ character.role }}</span>
+                        </div>
 
                         <div class="description">{{ character.description }}</div>                        
                         {% if character.requirements != empty and character.requirements != nil %}
@@ -74,8 +76,10 @@ Read through the roles listed here. When you've chosen one or more roles you lik
                             </div>
                         {% endif %}
 
-                        <div class="name">{{ character.title }}</div>
-                        <div class="role">{{ character.role }}</div>
+                        <div>
+                            <span class="name">{{ character.title }}</span>
+                            <span class="role">{{ character.role }}</span>
+                        </div>
 
                         <div class="description">
                             {{ character.description }}

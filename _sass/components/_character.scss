@@ -10,13 +10,15 @@ ul.characters {
             margin-bottom: .5em;
         }
         .name {
-            font-size: 22px;
+            font-size: 120%;
             text-transform: uppercase;
-            display: inline-block;
+            display: inline;
             font-weight: bold;
         }
         .role {
-            display: inline-block;
+            display: inline;
+            word-break: normal;
+            white-space: normal;
             &::before {
                 content: "\2014";
                 margin: 0 1em;
@@ -29,7 +31,12 @@ ul.characters {
             }
         }
 
-        .image {
+        .image, .image.left, .image.right {
+
+            margin-bottom: 0.1em;
+            -webkit-shape-outside:circle();
+            shape-outside:circle();
+
             > img {
                 border-radius: 100%;
             }
@@ -44,7 +51,7 @@ ul.characters {
                 display: block;
                 clear: both;
                 margin: 5em auto 1.25em auto;
-                max-width: 66%;
+                max-width: 50%;
             }
         }
     }

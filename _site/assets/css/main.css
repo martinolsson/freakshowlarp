@@ -2268,26 +2268,32 @@ ul.characters {
     ul.characters li > div {
       margin-bottom: .5em; }
     ul.characters li .name {
-      font-size: 22px;
+      font-size: 120%;
       text-transform: uppercase;
-      display: inline-block;
+      display: inline;
       font-weight: bold; }
     ul.characters li .role {
-      display: inline-block; }
+      display: inline;
+      word-break: normal;
+      white-space: normal; }
       ul.characters li .role::before {
         content: "\2014";
         margin: 0 1em; }
     ul.characters li .requirements > strong, ul.characters li .applications > strong {
       text-decoration: underline; }
-    ul.characters li .image > img {
-      border-radius: 100%; }
+    ul.characters li .image, ul.characters li .image.left, ul.characters li .image.right {
+      margin-bottom: 0.1em;
+      -webkit-shape-outside: circle();
+      shape-outside: circle(); }
+      ul.characters li .image > img, ul.characters li .image.left > img, ul.characters li .image.right > img {
+        border-radius: 100%; }
   @media screen and (max-width: 736px) {
     ul.characters li .image, ul.characters li .image.left, ul.characters li .image.right {
       float: none !important;
       display: block;
       clear: both;
       margin: 5em auto 1.25em auto;
-      max-width: 66%; } }
+      max-width: 50%; } }
 
 .application-form {
   width: 80vw;

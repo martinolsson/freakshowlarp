@@ -1,7 +1,7 @@
 ---
-title: The Great ... (???)
+title: The Great ... (chose your name)
 position: 3
-role: Storyteller/comedian/presenter
+role: Storyteller / comedian / presenter
 affinity: Circus
 description: All you have is words. Words to make people laugh, cry, dream. You were
   a silent child, always in the corner. One day, all of a sudden, words you couldn’t
@@ -13,4 +13,3 @@ requirements: ability and desire to speak in public
 layout: page
 image: assets/images/characters/the-great.jpg
 ---
-
