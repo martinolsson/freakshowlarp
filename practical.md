@@ -78,8 +78,7 @@ There is limited Wifi at the camping site in the reception cabin only
 ## Accessibility / Disability
 
 We take accessibility seriously.  If you have specific needs please contact us as early as possible so that we can try to make it possible for you to attend this game.
-<a href="mailto:freakshow@gmail.com">freakshow@gmail.com</a>
-
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 </div>
 <div class="5u 12u$(small)">
