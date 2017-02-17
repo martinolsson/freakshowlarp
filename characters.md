@@ -71,7 +71,7 @@ Read through the roles listed here. When you've chosen one or more roles you lik
                     <li class="clearfix">
 
                         {% if character.image != empty and character.image != nil %}
-                            <div class="image right">
+                            <div class="image left">
                                 <img src="{{ site.baseurl }}/{{ character.image }}" alt="" />
                             </div>
                         {% endif %}
