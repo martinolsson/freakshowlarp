@@ -1404,6 +1404,9 @@ hr {
 .align-right {
   text-align: right; }
 
+.clearboth {
+  clear: both; }
+
 /* Section/Article */
 section.special, article.special {
   text-align: center; }
@@ -1692,6 +1695,12 @@ a.icon.alt:active:before {
     width: 100%; }
     .image.fit img {
       width: 100%; }
+  .image.circle {
+    border-radius: 100%;
+    -webkit-shape-outside: circle();
+    shape-outside: circle(); }
+  .image.rounded {
+    border-radius: 16px; }
   .image.main {
     display: block;
     margin: 1.875em 0;

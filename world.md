@@ -9,13 +9,10 @@ image: assets/images/slum_small.jpg
 order: 2
 ---
 
-<img src="assets/images/slum_small.jpg" class="image fit" alt="Slum"/>
-
-
 <div class="row">
 <div class="10u -1u 12u$(small)">
 
-<div class="box"  markdown="1" style="font-style: italic">
+<div markdown="1" style="font-style: italic; font-size: 120%">
 
 “We have to move again,” Big Sister sighed.
 
@@ -46,6 +43,20 @@ It was two months later, as they ended the worst traveling season in ten years o
 
 </div>
 
+<div class="row">
+    <div class="3u 12u(small)">
+        <img src="assets/images/circus_folk2.jpg" class="image fit" alt="Albino family"/>
+    </div>
+    <div class="3u 12u(small)">
+        <img src="assets/images/Location2.jpg" class="image fit" alt="Albino family"/>
+    </div>
+    <div class="3u 12u(small)">
+        <img src="assets/images/baby.jpg" class="image fit" alt="Albino family"/>
+    </div>
+    <div class="3u 12u(small)">
+        <img src="assets/images/krop2.jpg" class="image fit" alt="Albino family"/>
+    </div>
+</div>
 
 <div class="row">
 <div class="6u 12u(small)" markdown="1">
@@ -54,9 +65,9 @@ It was two months later, as they ended the worst traveling season in ten years o
 
 The last three decades saw the world change. Like some biblical apocalypse, rulers became more inclined to look after the interests of the rich, the white, and the already powerful. At the same time they were less willing to look after the sick or unfortunate. There we no jobs to go around. The foreigner, or the stranger, became The Enemy; somehow they were to blame for everything that went wrong. All the meek inherited was culpability.
 
-<img src="assets/images/poverty.jpg" class="image fit" alt="Poverty"/>
+<img src="assets/images/slum_small.jpg" class="image fit" alt="Poverty"/>
 
-The world of our larp is a harsh one, but it is increasingly not unlike our own. The cities of Europe are decaying - times are bad for everyone, not just the freaks. Maybe there are pockets of wealth, but in general things have stopped being shiny a long time ago. Slums are everywhere and freaks are the lowest of the low. No one cares about them other than as a form of cathartic entertainment; folks pass by and think “at least we’re not like them.”
+The world of our larp is a harsh one, but it is increasingly not unlike our own. The cities of Europe are decaying &mdash; times are bad for everyone, not just the freaks. Maybe there are pockets of wealth, but in general things have stopped being shiny a long time ago. Slums are everywhere and freaks are the lowest of the low. No one cares about them other than as a form of cathartic entertainment; folks pass by and think “at least we’re not like them.”
 
 
 ## Government
@@ -88,7 +99,7 @@ Since the Freak Show is outside normal it also feels like a place where everythi
 
 ## The Story
 
-The larp tells the story of The Norman Sisters Freak Show, the last one of them all. It is a traveling show put together from a mixed bag of people that the sisters have gathered. Some of them they have saved from the streets, from orphanages, or from mental hospitals and asylums. Some freaks have come to them or joined from other traveling groups. Sometimes a person or two leaves the town with them, who - for many reasons - have chosen to run away to join the circus.
+The larp tells the story of The Norman Sisters Freak Show, the last one of them all. It is a traveling show put together from a mixed bag of people that the sisters have gathered. Some of them they have saved from the streets, from orphanages, or from mental hospitals and asylums. Some freaks have come to them or joined from other traveling groups. Sometimes a person or two leaves the town with them, who &mdash; for many reasons &mdash; have chosen to run away to join the circus.
 
 
 The time of traveling carnivals, circuses, sideshows and freaks shows is already gone. It’s impossible to compete with all the other entertainment available. The Norman Sister’s group is  the final refuge for the freaks. Joined by refugees from the other freak shows they’ve been on The Road for a lifetime, or more.

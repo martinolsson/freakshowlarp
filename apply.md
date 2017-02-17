@@ -9,22 +9,18 @@ show-in-nav: true
 order: 5
 ---
 
-The Freak Show has pre-written characters that are unique and complex. We want to match them wit active and passionate participants. We want to assign to you the role that fits you the best, the one that can stimulate you the most.
+The Freak Show has pre-written characters that are unique and complex. We want to match them with active and passionate participants. Sign up will open on February 20 and will be open until March 13th.
 {:.lead}
-
-Sign up will open on February 20 and will be open until March 13th.
-
-We will cast the characters based on motivational letters. The casting process will be anonymized, which means we won’t know the name of the player requesting a character. We aim to complete casting by the end of March.
-
-## Fill up the signup form
 
 <div class="row">
 
 <div class="6u 12u$(small)" markdown="1">
 
-Read about the characters available <a href="/characters.html">here</a>. Choose a first and second choice from the characters. If you don’t get cast in your first choice or second choice, we will suggest another free character to you.
+We will cast the characters based on motivational letters. The casting process will be anonymized, which means we won’t know the name of the player requesting a character. We aim to complete casting by the end of March.
 
-For your FIRST CHOICE of character please answer the following questions:
+Read about the characters available <a href="/characters.html">here</a>. Choose a first and second choice from the characters. If you don’t get cast in your first choice or second choice, we will suggest another free character to you. Don't freak out.
+
+For your first choice of character please answer the following questions:
 
 - Why do you want to play this character?
 - How will you make this character unique and alive?

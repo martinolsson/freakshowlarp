@@ -46,6 +46,16 @@
 			}
 		}
 
+		&.circle {
+			border-radius: 100%;
+			-webkit-shape-outside:circle();
+			shape-outside:circle();
+		}
+
+		&.rounded {
+			border-radius: 16px;
+		}
+
 		&.main {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;
