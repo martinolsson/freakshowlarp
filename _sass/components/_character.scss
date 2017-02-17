@@ -21,7 +21,7 @@ ul.characters {
             white-space: normal;
             &::before {
                 content: "\2014";
-                margin: 0 1em;
+                margin: 0 .5em;
             }
         }
 

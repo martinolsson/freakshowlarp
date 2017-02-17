@@ -11,7 +11,6 @@ order: 2
 
 <div class="row">
 <div class="10u -1u 12u$(small)">
-
 <div markdown="1" style="font-style: italic; font-size: 120%">
 
 “We have to move again,” Big Sister sighed.
@@ -36,11 +35,8 @@ It was two months later, as they ended the worst traveling season in ten years o
 
 “So, what will it cost?” asked the younger sister …
 
-
 </div>
-
 </div>
-
 </div>
 
 <div class="row">
@@ -64,12 +60,7 @@ Governments will not waste money on anyone who is non-productive. Those who are 
 
 The Christian Church has changed too. When the USA closed its borders and started to repatriate even second and third generation immigrants, many Scandinavian-Americans were sent back to the land of their forefathers. Bringing with them a form of Southern Baptist Christianity that merged with Finnish Lutheranism. This New Christianity quickly spread. A religion that frowns on excess, on entertainment, on conspicuous consumption merged with fire and brimstone. The Freaks are a manifestation of the end times. They are at best not to be trusted, at worst the instruments of evil.
 
-
-
-
-
 For seven years there have been droughts and floods. In America the dust bowl has returned and the farms are barren. There is not enough food to feed the world. Elsewhere the seas are rising. The Netherlands are underwater. The phrase “remember the low countries” is used as a dire warning for the power God has to punish sinners.
-
 
 </div>
 
@@ -81,11 +72,9 @@ The freaks have resorted to the only thing they can to survive. They are selling
 
 Since the Freak Show is outside normal it also feels like a place where everything might be possible. There is constantly magic in the air. The fabric between real and unreal is thin and easily crossed.
 
-
 ## The Story
 
 The larp tells the story of The Norman Sisters Freak Show, the last one of them all. It is a traveling show put together from a mixed bag of people that the sisters have gathered. Some of them they have saved from the streets, from orphanages, or from mental hospitals and asylums. Some freaks have come to them or joined from other traveling groups. Sometimes a person or two leaves the town with them, who &mdash; for many reasons &mdash; have chosen to run away to join the circus.
-
 
 The time of traveling carnivals, circuses, sideshows and freaks shows is already gone. It’s impossible to compete with all the other entertainment available. The Norman Sister’s group is  the final refuge for the freaks. Joined by refugees from the other freak shows they’ve been on The Road for a lifetime, or more.
 
