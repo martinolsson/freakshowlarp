@@ -26,7 +26,7 @@ As a larp creator Nina is all about creating immersion and strong emotions. She 
 
 ## Martin Olsson
 
-Martin started larping in the early 90s, and has been searching for fleeting moments of unreality ever since. He's been involved in creating some Swedish classics, such as Det Sista Kapitlet, Hamlet Inifrån (more recently audio for the Danish veriosn), and Skyrmion as core organiser. Martin has also created larps in professional settings, ranging from team kickoffs to political simulations for thousands of participants. And a puppet movie<a href="http://thepostofficemovie.com">.</a>  
+Martin started larping in the early 90s, and has been searching for fleeting moments of unreality ever since. He's been involved in creating some Swedish classics, such as Det Sista Kapitlet, Hamlet Inifrån (more recently audio for the Danish verion), and Skyrmion as core organiser. Martin has also created larps in professional settings, ranging from team kickoffs to political simulations for thousands of participants. And a puppet movie<a href="http://thepostofficemovie.com">.</a>  
 
 <br clear="all"/>
 
