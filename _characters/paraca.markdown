@@ -15,3 +15,4 @@ requirements: An elongated skull prop, having a stage act presenting Paraca cult
 layout: page
 image: assets/images/characters/paraca.jpg
 ---
+

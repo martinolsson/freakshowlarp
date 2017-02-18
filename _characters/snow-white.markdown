@@ -15,3 +15,4 @@ requirements: looking like an albino, clothes with a hood
 layout: page
 image: assets/images/characters/snow.jpg
 ---
+

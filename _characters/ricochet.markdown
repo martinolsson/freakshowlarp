@@ -13,3 +13,4 @@ requirements: visible tattoos, burlesque act on stage
 layout: page
 image: assets/images/characters/ruby.jpg
 ---
+

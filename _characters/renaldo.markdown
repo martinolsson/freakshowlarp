@@ -14,3 +14,4 @@ requirements: Arabic exotic clothing, crystal ball, astrology charts
 layout: page
 image: assets/images/characters/renaldo.jpg
 ---
+
