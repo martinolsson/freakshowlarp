@@ -13,3 +13,4 @@ requirements: An extremely obese body, playing a seductive person, having an on 
 layout: page
 image: assets/images/characters/rudy.jpg
 ---
+

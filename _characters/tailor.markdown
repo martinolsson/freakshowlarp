@@ -13,3 +13,4 @@ requirements: Tailor gear and some fabrics as props for your profession
 layout: page
 image: assets/images/characters/tailor.jpg
 ---
+
