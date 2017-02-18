@@ -12,5 +12,5 @@ description: Seven years of medical school and a lots of debts. Sure you could l
   of your life; but maybe it has changed for the better.
 requirements: Tools of your profession
 layout: page
+image: assets/images/characters/doctor.jpg
 ---
-

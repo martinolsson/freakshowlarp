@@ -11,5 +11,5 @@ description: A bit of timeless tease for the boys and girls; a hint of 1950s, a 
   just pictures. Your ink is more than that, the monsters are real.
 requirements: visible tattoos, burlesque act on stage
 layout: page
+image: assets/images/characters/ruby.jpg
 ---
-

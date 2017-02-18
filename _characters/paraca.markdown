@@ -13,5 +13,5 @@ description: You are the last of your people. Everything from the shape of your 
   now this seems more frightening, almost as though you are being hunted.
 requirements: An elongated skull prop, having a stage act presenting Paraca culture
 layout: page
+image: assets/images/characters/paraca.jpg
 ---
-

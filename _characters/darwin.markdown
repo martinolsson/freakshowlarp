@@ -12,5 +12,5 @@ description: You can read the 23 tome Encyclopedia Britannica in a day and remem
   and perhaps you will end up nothing more than an ape?
 requirements: Neanderthal look or prosthetics, having a stage act
 layout: page
+image: assets/images/characters/darwin.jpg
 ---
-

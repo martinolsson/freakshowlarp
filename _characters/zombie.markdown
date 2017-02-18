@@ -10,5 +10,5 @@ description: Your skin is dead to touch, you have never felt a thing. Still your
   understanding.
 requirements: Full body skeleton tattoo, performance showing off not feeling pain
 layout: page
+image: assets/images/characters/zombie.jpg
 ---
-

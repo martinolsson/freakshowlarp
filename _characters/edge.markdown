@@ -12,5 +12,5 @@ description: You were once a champion knife thrower. The best. One day, when per
   and you will be able to perform again?
 requirements: ability to mimic or a real stutter
 layout: page
+image: assets/images/characters/edge.jpg
 ---
-

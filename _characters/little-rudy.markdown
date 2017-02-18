@@ -11,5 +11,5 @@ description: People say you’re fat, but it’s not like that. Regular folk don
 requirements: An extremely obese body, playing a seductive person, having an on stage
   act
 layout: page
+image: assets/images/characters/rudy.jpg
 ---
-

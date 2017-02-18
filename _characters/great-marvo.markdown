@@ -11,5 +11,6 @@ description: You could sell snow to the penguins, but it ain’t worth it. Those
   day it’ll make you a fortune?
 requirements: bottles of snake oil
 layout: page
----
+image: assets/images/characters/marvo.jpg
 
+---

@@ -11,5 +11,5 @@ description: Speaking and taming the nature, the force that runs through all, co
 requirements: A port-wine stain that is large and clearly visible, items and spells
   for ritual magic and practising it in game
 layout: page
+image: assets/images/characters/makra.jpg
 ---
-

@@ -12,5 +12,5 @@ description: You are a crook. Nothing you "foretell" has any real chance of comi
   be so great, you would do anything to have real powers.
 requirements: Arabic exotic clothing, crystal ball, astrology charts
 layout: page
+image: assets/images/characters/renaldo.jpg
 ---
-
