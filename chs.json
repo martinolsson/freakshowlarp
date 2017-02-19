@@ -3,6 +3,7 @@ title: Characters
 layout: json
 show-in-nav: false
 ---
+
 {
     "characters": [
         {% for c in site.characters %}
