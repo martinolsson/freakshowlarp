@@ -1,0 +1,19 @@
+---
+title: Characters
+layout: json
+show-in-nav: false
+---
+{
+    "characters": [
+        {% for c in site.characters %}
+            {
+                "name": "{{ c.title }}",
+                "role": "{{ c.role }}",
+                "affinity": "{{ c.affinity }}",
+                "description": "{{ c.description }}",
+                "requirements": "{{ c.requirements }}",
+                "image": "{{ c.image }}"
+            },
+        {% endfor %}
+    ]
+}
