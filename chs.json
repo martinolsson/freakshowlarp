@@ -15,5 +15,6 @@ show-in-nav: false
                 "image": "{{ c.image }}"
             },
         {% endfor %}
+        {}
     ]
 }

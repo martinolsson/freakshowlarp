@@ -3,7 +3,7 @@ title: Renaldo / Renata the All Seeing
 position: 20
 role: Fortune teller
 affinity: Circus
-description: You are a crook. Nothing you "foretell" has any real chance of coming
+description: You are a crook. Nothing you foretell has any real chance of coming
   true or being reflected in facts. You simply used the opportunity and snuck into
   the boss’s office and read everybody’s files putting special attention to remembering
   their dates of birth, or as many as was possible and/or disclosed. And since then
@@ -14,4 +14,3 @@ requirements: Arabic exotic clothing, crystal ball, astrology charts
 layout: page
 image: assets/images/characters/renaldo.jpg
 ---
-
