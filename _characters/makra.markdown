@@ -12,5 +12,5 @@ requirements: A port-wine stain that is large and clearly visible, items and spe
   for ritual magic and practising it in game
 layout: page
 image: assets/images/characters/makra.jpg
+applications: 1
 ---
-
