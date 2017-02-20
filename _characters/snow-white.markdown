@@ -14,5 +14,6 @@ description: Sun can kill you. Since your birth you’ve preferred to stay in a 
 requirements: looking like an albino, clothes with a hood
 layout: page
 image: assets/images/characters/snow.jpg
-applications: 1 
+applications: 1
 ---
+
