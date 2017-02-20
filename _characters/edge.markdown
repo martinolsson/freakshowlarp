@@ -15,3 +15,4 @@ layout: page
 image: assets/images/characters/edge.jpg
 applications: 2
 ---
+
