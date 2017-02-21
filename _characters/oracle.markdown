@@ -13,3 +13,4 @@ layout: page
 image: assets/images/characters/oracle.jpg
 applications: 2
 ---
+
