@@ -11,5 +11,5 @@ description: You were born in the Freak Show, a world that has always been very 
 requirements: Doing future readings for the freaks, tarot cards
 layout: page
 image: assets/images/characters/oracle.jpg
-applications: 1
+applications: 2
 ---

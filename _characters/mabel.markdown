@@ -12,5 +12,5 @@ requirements: You are joined to Spider at the hip, you will need to play togethe
   in a harness and shared clothes and perform an act on stage together.
 layout: page
 image: assets/images/characters/mabel.jpg
+applications: 1
 ---
-
