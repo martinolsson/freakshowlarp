@@ -3,7 +3,7 @@ title: Characters
 position: 3
 layout: page
 description: The full cast. What kind of freak are you?
-landing-title: Who is Who in The Freak Show
+landing-title: Who is Who in The Freak Show?
 show-in-nav: true
 image: assets/images/barnum-bailey-lo.jpg
 ---
