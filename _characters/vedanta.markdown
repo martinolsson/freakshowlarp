@@ -15,3 +15,4 @@ layout: page
 image: assets/images/characters/vedanta.jpg
 applications: 1
 ---
+
