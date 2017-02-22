@@ -12,5 +12,5 @@ requirements: Ticking that can be heard inside you, a small scar over your heart
   act on stage with Tick
 layout: page
 image: assets/images/characters/tock.jpg
+applications: 1
 ---
-
