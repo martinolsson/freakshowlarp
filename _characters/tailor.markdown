@@ -14,3 +14,4 @@ layout: page
 image: assets/images/characters/tailor.jpg
 applications: 1
 ---
+
