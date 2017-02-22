@@ -14,7 +14,9 @@ You are in the Freak Show because you have no other option. Even if you're not v
 <img src="assets/images/barnum-bailey.jpg" class="image fit" alt="Barnum Bailey Gang"/>
 
 
-Read through the roles listed here. When you've chosen one or more roles you like, go ahead and <a href="apply.html">apply to take part!</a>. The roles are quite open to interpretation and we will work together with you to flesh them out. Some of the roles have <strong>special requirements</strong> in the form of makeup, props or other preparations. Information about these requirements are listed with the character.
+These are the roles available in the Freak Show. When you've chosen one or more roles you like, go ahead and <a href="apply.html">apply to take part!</a>. The roles are quite open to interpretation and we will work together with you to flesh them out. Some of the roles have <strong>special requirements</strong> in the form of makeup, props or other preparations. Information about these requirements are listed with the character.
+
+These character descriptions are written from many different viewpoints, some are the character’s inner speech, some are what the presenters say of them on the stage, some what others think of them and some the way they see themselves. We expect you to to take the text as inspiration and evolve the idea further.
 
 {% assign freaks = site.characters | where: "affinity", "Freaks" | sort: "position" %}
 {% assign folks = site.characters | where: "affinity", "Circus" | sort: "position" %}
