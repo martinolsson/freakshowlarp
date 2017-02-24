@@ -80,6 +80,10 @@ There is limited Wifi at the camping site in the reception cabin only
 We take accessibility seriously.  If you have specific needs please contact us as early as possible so that we can try to make it possible for you to attend this game.
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
+## Cancellation
+
+If you cancel your attendance before 15th August <u>and we find a replacement player for you</u>, you will get a refund of 160 eur (80 eur for Larpfund tickets). After this date there will be no refunds.
+
 </div>
 <div class="5u 12u$(small)">
     <img src="assets/images/Location2.jpg" class="image fit" alt="Picture of location"/>
