@@ -12,5 +12,5 @@ description: You have fasted in the flowering deserts of Oman living only on sce
   searched for something deeper, that much at least is true.
 layout: page
 image: assets/images/characters/haze.jpg
+applications: 1
 ---
-
