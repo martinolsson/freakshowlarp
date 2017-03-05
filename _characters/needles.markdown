@@ -12,5 +12,5 @@ description: It's was a passion, getting inked. The pictures on your skin melded
 requirements: Lots of tattoos including facial tattoos and other body modifications
 layout: page
 image: assets/images/characters/needles.jpg
+applications: 1
 ---
-
