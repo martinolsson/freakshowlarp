@@ -13,6 +13,5 @@ description: Seven years of medical school and a lots of debts. Sure you could l
 requirements: Tools of your profession
 layout: page
 image: assets/images/characters/doctor.jpg
-applications: 1
+applications: 2
 ---
-
