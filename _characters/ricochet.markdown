@@ -14,3 +14,4 @@ layout: page
 image: assets/images/characters/ruby.jpg
 applications: 2
 ---
+
