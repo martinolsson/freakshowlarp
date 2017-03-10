@@ -12,5 +12,5 @@ description: A bit of timeless tease for the boys and girls; a hint of 1950s, a 
 requirements: visible tattoos, burlesque act on stage
 layout: page
 image: assets/images/characters/ruby.jpg
+applications: 1
 ---
-

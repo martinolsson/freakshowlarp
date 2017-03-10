@@ -12,5 +12,5 @@ description: Your body is covered with feathers. Wearing clothes is difficult an
 requirements: feathery costume / prop-glue feathers to skin, prop drugs to sell
 layout: page
 image: assets/images/characters/birdie.jpg
+applications: 1
 ---
-
