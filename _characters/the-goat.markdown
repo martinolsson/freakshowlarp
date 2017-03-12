@@ -13,5 +13,5 @@ requirements: Horns, goatee or longer facial hair, a satyr like costume, having 
   stage act
 layout: page
 image: assets/images/characters/the-goat.jpg
+applications: 1
 ---
-

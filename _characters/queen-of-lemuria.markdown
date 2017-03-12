@@ -13,5 +13,5 @@ requirements: Female looking body with a beard, flashy feminine costume, having 
   stage act
 layout: page
 image: assets/images/characters/queen-of-lemuria.jpg
+applications: 1
 ---
-

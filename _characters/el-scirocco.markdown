@@ -13,5 +13,5 @@ description: You are a very serious artist and you don’t understand why they a
 requirements: No sense of shame (we will provide a soundtrack)
 layout: page
 image: assets/images/characters/el-scirocco.jpg
+applications: 1
 ---
-
