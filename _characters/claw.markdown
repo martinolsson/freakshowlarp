@@ -12,5 +12,5 @@ description: You should count yourself among the lucky. It could have been your 
 requirements: lobster claw hand prop, having a stage act
 layout: page
 image: assets/images/characters/claw.jpg
+applications: 1
 ---
-

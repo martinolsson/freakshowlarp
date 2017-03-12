@@ -12,5 +12,5 @@ requirements: Ticking that can be heard inside you, a huge scar on your chest an
   a box with a heart, act on stage presenting these
 layout: page
 image: assets/images/characters/tick.jpg
+applications: 1
 ---
-
