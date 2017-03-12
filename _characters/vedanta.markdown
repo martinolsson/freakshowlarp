@@ -13,6 +13,5 @@ description: You were mute, and they put you in the school for defective childre
 requirements: Ventriloquist doll, knack for dual personalities.
 layout: page
 image: assets/images/characters/vedanta.jpg
-applications: 1
+applications: 2
 ---
-
