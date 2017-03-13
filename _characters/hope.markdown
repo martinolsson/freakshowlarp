@@ -10,6 +10,5 @@ description: Little Sister is your mother but you consider both of the  sisters 
 requirements: Looking like a teenager
 layout: page
 image: assets/images/characters/hope.jpg
-applications: 2
+applications: 3
 ---
-
