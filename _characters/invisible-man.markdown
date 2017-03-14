@@ -10,5 +10,5 @@ description: After the incident you haven’t been able turn invisible. You can 
   the crowds, now you could just walk out and start a normal life for God’s sake!
 layout: page
 image: assets/images/characters/invisible-person.jpg
+applications: 1
 ---
-

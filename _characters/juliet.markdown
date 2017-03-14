@@ -11,5 +11,5 @@ description: Things at home were getting more dangerous, the beatings were getti
 requirements: Looking like a young woman.
 layout: page
 image: assets/images/characters/juliet.jpg
+applications: 1
 ---
-
