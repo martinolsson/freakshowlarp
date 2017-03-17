@@ -13,3 +13,4 @@ layout: page
 image: assets/images/characters/thomas-lindt.jpg
 applications: 1
 ---
+
