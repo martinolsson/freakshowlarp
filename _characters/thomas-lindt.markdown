@@ -11,5 +11,5 @@ description: You were barely getting by before your wife died at childbirth. Her
 requirements: a dwarf mummy in a display box, looking like a man
 layout: page
 image: assets/images/characters/thomas-lindt.jpg
+applications: 1
 ---
-

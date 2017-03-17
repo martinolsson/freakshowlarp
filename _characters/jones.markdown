@@ -14,5 +14,5 @@ requirements: A musical instrument and skills to play it, being or playing an al
   completely blind person
 layout: page
 image: assets/images/characters/jones.jpg
+applications: 1
 ---
-
