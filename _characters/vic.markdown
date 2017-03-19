@@ -12,6 +12,5 @@ description: Choosing is overrated. Black and white distinctions are for limited
 requirements: having a stage act, prop for a gender unclear aspect
 layout: page
 image: assets/images/characters/vic.jpg
-applications: 2
+applications: 3
 ---
-

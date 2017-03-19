@@ -10,5 +10,5 @@ description: You were the strongest of the strong, but then you broke your back.
   were younger. But sometimes, when the night falls, you feel regret.
 layout: page
 image: assets/images/characters/atlas.jpg
+assessments: 1
 ---
-
