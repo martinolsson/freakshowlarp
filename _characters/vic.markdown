@@ -14,3 +14,4 @@ layout: page
 image: assets/images/characters/vic.jpg
 applications: 3
 ---
+
