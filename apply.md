@@ -9,6 +9,11 @@ show-in-nav: true
 order: 5
 ---
 
+
+<div class="box">
+<h3 style="text-align: center">Application for Freak Show is now closed. We will finish casting by April 3.</h3>
+</div>
+
 The Freak Show has pre-written characters that are unique and complex. We want to match them with active and passionate participants. Sign up will open on February 20 and will be open until March 13th.
 {:.lead}
 
@@ -25,8 +30,6 @@ For your first choice of character please answer the following questions:
 - Why do you want to play this character?
 - How will you make this character unique and alive?
 - How would you develop this character further?
-
-<a href="https://goo.gl/forms/mObwTqPF1eoIPVs92" target="_blank" class="button primary next">Apply now</a>
 
 
 </div>
