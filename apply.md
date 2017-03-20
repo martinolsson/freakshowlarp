@@ -9,7 +9,6 @@ show-in-nav: true
 order: 5
 ---
 
-
 <div class="box">
 <h3 style="text-align: center">Application for Freak Show is now closed. We will finish casting by April 3.</h3>
 </div>
