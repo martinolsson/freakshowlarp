@@ -12,6 +12,5 @@ description: You totally love the unusual; the freaks push all of your buttons a
 requirements: Tailor gear and some fabrics as props for your profession
 layout: page
 image: assets/images/characters/tailor.jpg
-applications: 2
+applications: 3
 ---
-
