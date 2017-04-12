@@ -8,6 +8,7 @@ show-in-nav: true
 image: assets/images/barnum-bailey-lo.jpg
 ---
 
+
 You are in the Freak Show because you have no other option. Even if you're not visibly different, there is something that sets you aside from normal society. Maybe you made yourself different on the outside too even though you weren’t like that to start with.
 {:.lead}
 
@@ -39,7 +40,6 @@ These character descriptions are written from many different viewpoints, some ar
                                 <img src="{{ site.baseurl }}/{{ character.image }}" alt="" />
                             </div>
                         {% endif %}
-
                         <div>
                             <span class="name">{{ character.title }}</span>
                             <span class="role">{{ character.role }}</span>

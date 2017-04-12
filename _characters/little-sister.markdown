@@ -1,6 +1,6 @@
 ---
 title: Little Sister
-position: 22
+position: 1
 affinity: Freaks
 role: Leader
 description: You were born different and your sister saved you from your mother. She
@@ -12,4 +12,3 @@ requirements: Prop for some kind of visible deformity, the character is a woman
 layout: page
 image: assets/images/characters/little-sister.jpg
 ---
-
